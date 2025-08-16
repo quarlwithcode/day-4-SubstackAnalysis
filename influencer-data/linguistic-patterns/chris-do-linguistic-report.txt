@@ -1,0 +1,78 @@
+LINGUISTIC PATTERN ANALYSIS: Chris Do
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 72.9% (35 instances)
+  I-focused: 25.0% (12 instances)
+  WE-focused: 2.1% (1 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.17
+  Urgency Ratio: 1.0
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: WAR
+Metaphor Usage:
+  war: 2 references
+  building: 2 references
+  game: 2 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "let's talk about" - 2x
+  "a brand is" - 2x
+  "it's not your" - 2x
+  "you'll be treated" - 2x
+  "be treated as" - 2x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Persuasion/Personalization
+  I/me/my: 2.33% of words
+  You/your: 6.2% of words
+  We/us/our: 0.19% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 1
+Questions: 6 (Rhetorical: 0)
+Numbered Lists: 6
+Imperatives: 0
+Rhetorical Density: 0.19
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 15.0%
+  Present: 65.0%
+  Future: 20.0%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: VISUAL
+  Visual: 3 references
+  Auditory: 0 references
+  Kinesthetic: 0 references
+Sensory Richness: 0.58%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: ASPIRATION-BASED
+  Fear-based: 0.0%
+  Aspiration-based: 100.0%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: PUNCHY
+Average Sentence Length: 7.4 words
+  Short (<8 words): 40
+  Medium (8-20 words): 30
+  Long (>20 words): 0
+Rhythm Changes: 3

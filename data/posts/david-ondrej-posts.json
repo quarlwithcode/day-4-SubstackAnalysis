@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "david-ondrej-post-1",
+      "title": "Key Insight #1",
+      "content": "this 3b parameter model is outperforming models 30 times its size",
+      "date": "2025-08-16T19:30:39.965421",
+      "engagement": 85
+    },
+    {
+      "id": "david-ondrej-post-2",
+      "title": "Key Insight #2",
+      "content": "i've been testing it all morning and the results are insane",
+      "date": "2025-08-16T19:30:39.965422",
+      "engagement": 90
+    },
+    {
+      "id": "david-ondrej-post-3",
+      "title": "Key Insight #3",
+      "content": "10 or higher, cuda if you want gpu acceleration, and about 8gb of ram minimum",
+      "date": "2025-08-16T19:30:39.965423",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 1,
+  "influencerId": "david-ondrej"
+}

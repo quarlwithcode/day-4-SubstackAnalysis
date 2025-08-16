@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "dan-koe-post-1",
+      "title": "Key Insight #1",
+      "content": "transcript ======================================== i shave my head every often, as you can tell",
+      "date": "2025-08-16T19:30:39.966972",
+      "engagement": 85
+    },
+    {
+      "id": "dan-koe-post-2",
+      "title": "Key Insight #2",
+      "content": "i buzzed my head to rip the metaphorical band-aid off and get used to the look that i was doomed to have",
+      "date": "2025-08-16T19:30:39.966975",
+      "engagement": 90
+    },
+    {
+      "id": "dan-koe-post-3",
+      "title": "Key Insight #3",
+      "content": "and i also believe that too many guys are dependent on their hair for their self-confidence",
+      "date": "2025-08-16T19:30:39.966976",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 6,
+  "influencerId": "dan-koe"
+}

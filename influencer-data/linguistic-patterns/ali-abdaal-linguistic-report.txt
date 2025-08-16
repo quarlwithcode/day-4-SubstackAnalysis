@@ -1,0 +1,78 @@
+LINGUISTIC PATTERN ANALYSIS: Ali Abdaal
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 51.6% (16 instances)
+  I-focused: 48.4% (15 instances)
+  WE-focused: 0.0% (0 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.33
+  Urgency Ratio: 1.0
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: WAR
+Metaphor Usage:
+  war: 1 references
+  building: 1 references
+  machine: 1 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "are about the" - 2x
+  "so, let's talk" - 1x
+  "let's talk about" - 1x
+  "talk about productivity." - 1x
+  "about productivity. but" - 1x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Persuasion/Personalization
+  I/me/my: 2.78% of words
+  You/your: 2.97% of words
+  We/us/our: 0.0% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 0
+Questions: 5 (Rhetorical: 0)
+Numbered Lists: 6
+Imperatives: 0
+Rhetorical Density: 0.17
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 0.0%
+  Present: 100.0%
+  Future: 0.0%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: VISUAL
+  Visual: 0 references
+  Auditory: 0 references
+  Kinesthetic: 0 references
+Sensory Richness: 0.0%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: ASPIRATION-BASED
+  Fear-based: 0.0%
+  Aspiration-based: 100.0%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: PUNCHY
+Average Sentence Length: 8.3 words
+  Short (<8 words): 34
+  Medium (8-20 words): 30
+  Long (>20 words): 1
+Rhythm Changes: 8

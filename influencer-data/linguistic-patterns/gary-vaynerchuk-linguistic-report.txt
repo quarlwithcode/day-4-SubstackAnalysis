@@ -1,0 +1,78 @@
+LINGUISTIC PATTERN ANALYSIS: Gary Vaynerchuk
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 84.1% (37 instances)
+  I-focused: 13.6% (6 instances)
+  WE-focused: 2.3% (1 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.35
+  Urgency Ratio: 1.0
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: GAME
+Metaphor Usage:
+  war: 1 references
+  building: 2 references
+  game: 5 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "the hack is" - 4x
+  "you need to" - 3x
+  "what it was" - 2x
+  "here's what you" - 2x
+  "you want to" - 2x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Persuasion/Personalization
+  I/me/my: 1.1% of words
+  You/your: 6.61% of words
+  We/us/our: 0.18% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 1
+Questions: 8 (Rhetorical: 0)
+Numbered Lists: 6
+Imperatives: 0
+Rhetorical Density: 0.17
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 22.2%
+  Present: 74.1%
+  Future: 3.7%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: AUDITORY
+  Visual: 0 references
+  Auditory: 1 references
+  Kinesthetic: 0 references
+Sensory Richness: 0.18%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: FEAR-BASED
+  Fear-based: 60.0%
+  Aspiration-based: 40.0%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: PUNCHY
+Average Sentence Length: 6.3 words
+  Short (<8 words): 57
+  Medium (8-20 words): 28
+  Long (>20 words): 1
+Rhythm Changes: 4

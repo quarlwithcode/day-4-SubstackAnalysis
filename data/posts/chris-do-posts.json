@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "chris-do-post-1",
+      "title": "Key Insight #1",
+      "content": "not the surface level stuff - the deep strategy that transforms your business",
+      "date": "2025-08-16T19:30:39.961294",
+      "engagement": 85
+    },
+    {
+      "id": "chris-do-post-2",
+      "title": "Key Insight #2",
+      "content": "a brand is a person's gut feeling about you, your product, or your service",
+      "date": "2025-08-16T19:30:39.961295",
+      "engagement": 90
+    },
+    {
+      "id": "chris-do-post-3",
+      "title": "Key Insight #3",
+      "content": "built and sold agencies, taught thousands of creatives, and here's what i've learned - most people have it backwards",
+      "date": "2025-08-16T19:30:39.961296",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 1,
+  "influencerId": "chris-do"
+}

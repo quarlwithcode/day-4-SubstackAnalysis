@@ -1,0 +1,37 @@
+CREATOR LANGUAGE PROFILE: Matthew Lakajev
+============================================================
+Source Files: 1 transcripts
+Original Word Count: 491
+Cleaned Word Count: 487
+Reduction: 0.8%
+============================================================
+
+TOP KEY PHRASES (3-word patterns):
+----------------------------------------
+linkedin users are: 2 occurrences
+i posted one: 1 occurrences
+posted one thing: 1 occurrences
+one thing on: 1 occurrences
+thing on linkedin: 1 occurrences
+on linkedin and: 1 occurrences
+linkedin and got: 1 occurrences
+and got 10,066: 1 occurrences
+got 10,066 inbound: 1 occurrences
+10,066 inbound leads.: 1 occurrences
+inbound leads. not: 1 occurrences
+leads. not impressions,: 1 occurrences
+not impressions, not: 1 occurrences
+impressions, not views: 1 occurrences
+not views -: 1 occurrences
+views - actual: 1 occurrences
+- actual leads.: 1 occurrences
+actual leads. let: 1 occurrences
+leads. let me: 1 occurrences
+let me break: 1 occurrences
+
+============================================================
+
+CLEANED TRANSCRIPT TEXT:
+============================================================
+
+i posted one thing on linkedin and got 10,066 inbound leads. not impressions, not views - actual leads. let me break down exactly how this happened. the post was 147 words. that's it. but every single word was intentional. every line break, every emoji, every capital letter - all tested, all optimized. here's the formula: hook, story, lesson, call to action. sounds simple? it is. but 99% of people get it wrong because they don't understand the psychology. the hook needs to pattern interrupt. linkedin users are scrolling mindlessly. you have 0.8 seconds to stop them. i use numbers, contrarian takes, or unexpected revelations. then the story - and this is crucial - needs to be about transformation. not what you did, but what changed. people don't care about your journey, they care about the destination. the lesson must be actionable. give them something they can implement immediately. not tomorrow, not next week - now, while they're still engaged with your content. and the cta? never sell. always give. i offered a free resource that solved a specific problem. the leads came flooding in because i led with value. but here's what made it work - the comments. i replied to every single one in the first hour. linkedin's algorithm sees this as high-quality engagement and pushes your post to more feeds. i've built an ai second brain that helps me create this content at scale. it analyzes what works, suggests improvements, even writes first drafts. but the strategy? that's all human. let me share the exact posting schedule that works. tuesday through thursday, 8-10 am eastern. why? decision makers are checking linkedin before their first meeting. they're in consumption mode, not creation mode. the writing formula i use is called the linkedin native style. short sentences. lots of line breaks. easy to scan on mobile. because 87% of linkedin users are on their phones. here's something nobody talks about - the profile optimization. your post can go viral but if your profile doesn't convert, you've wasted the opportunity. every section needs to sell the transformation you provide. i booked 176 meetings in 30 days using this exact system. no paid ads, no cold outreach, strategic content and smart dming. the dm strategy is simple - don't pitch. start conversations. i have five templates that work every time. they're all about adding value, asking smart questions, and building genuine relationships. this isn't about gaming the algorithm. it's about understanding human psychology and delivering massive value consistently. do that, and linkedin becomes a lead generation machine. if you're starting from zero, here's what i'd do. post daily for 30 days. same time, same format. document your expertise. share your learnings. build in public. by day 30, you'll have momentum. by day 60, you'll have an audience. by day 90, you'll have more leads than you can handle. i've done it three times now. it works every single time.

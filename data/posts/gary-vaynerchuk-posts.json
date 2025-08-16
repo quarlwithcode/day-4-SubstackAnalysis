@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "gary-vaynerchuk-post-1",
+      "title": "Key Insight #1",
+      "content": "most people are still playing checkers while the algorithm is playing 4d chess",
+      "date": "2025-08-16T19:30:39.965283",
+      "engagement": 85
+    },
+    {
+      "id": "gary-vaynerchuk-post-2",
+      "title": "Key Insight #2",
+      "content": "here's what you need to know: attention is the asset",
+      "date": "2025-08-16T19:30:39.965284",
+      "engagement": 90
+    },
+    {
+      "id": "gary-vaynerchuk-post-3",
+      "title": "Key Insight #3",
+      "content": "you could have a million followers and if only 1% are seeing your content, you're losing",
+      "date": "2025-08-16T19:30:39.965285",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 1,
+  "influencerId": "gary-vaynerchuk"
+}

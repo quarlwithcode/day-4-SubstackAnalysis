@@ -1,0 +1,218 @@
+{
+  "influencer": "gary-vaynerchuk",
+  "word_count": 545,
+  "sentence_count": 86,
+  "identity_framing": {
+    "you_focused": 37,
+    "i_focused": 6,
+    "we_focused": 1,
+    "you_percentage": 84.1,
+    "i_percentage": 13.6,
+    "we_percentage": 2.3,
+    "primary_frame": "YOU"
+  },
+  "emotional_valence": {
+    "positive_count": 6,
+    "negative_count": 11,
+    "positivity_ratio": 0.35,
+    "urgent_count": 5,
+    "calm_count": 0,
+    "urgency_ratio": 1.0,
+    "emotional_tone": "negative",
+    "arousal_level": "high"
+  },
+  "metaphors": {
+    "metaphor_counts": {
+      "journey": 0,
+      "war": 1,
+      "building": 2,
+      "game": 5,
+      "nature": 0,
+      "machine": 0
+    },
+    "dominant_metaphor": "game",
+    "metaphor_diversity": 3
+  },
+  "repetition": {
+    "top_bigrams": [
+      [
+        "the hack",
+        4
+      ],
+      [
+        "hack is",
+        4
+      ],
+      [
+        "you can",
+        4
+      ],
+      [
+        "you need",
+        3
+      ],
+      [
+        "need to",
+        3
+      ],
+      [
+        "the perfect",
+        3
+      ],
+      [
+        "the game",
+        2
+      ],
+      [
+        "what it",
+        2
+      ],
+      [
+        "it was",
+        2
+      ],
+      [
+        "here's what",
+        2
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "the hack is",
+        4
+      ],
+      [
+        "you need to",
+        3
+      ],
+      [
+        "what it was",
+        2
+      ],
+      [
+        "here's what you",
+        2
+      ],
+      [
+        "you want to",
+        2
+      ],
+      [
+        "stop waiting for",
+        2
+      ],
+      [
+        "everyone wants the",
+        2
+      ],
+      [
+        "listen, you need",
+        1
+      ],
+      [
+        "need to understand",
+        1
+      ],
+      [
+        "to understand something.",
+        1
+      ]
+    ],
+    "top_fourgrams": [
+      [
+        "listen, you need to",
+        1
+      ],
+      [
+        "you need to understand",
+        1
+      ],
+      [
+        "need to understand something.",
+        1
+      ],
+      [
+        "to understand something. the",
+        1
+      ],
+      [
+        "understand something. the game",
+        1
+      ]
+    ],
+    "signature_phrases": [
+      [
+        "the hack is",
+        4
+      ],
+      [
+        "you need to",
+        3
+      ],
+      [
+        "what it was",
+        2
+      ],
+      [
+        "here's what you",
+        2
+      ],
+      [
+        "you want to",
+        2
+      ]
+    ]
+  },
+  "pronouns": {
+    "i_count": 6,
+    "you_count": 36,
+    "we_count": 1,
+    "they_count": 4,
+    "i_ratio": 1.1,
+    "you_ratio": 6.61,
+    "we_ratio": 0.18,
+    "they_ratio": 0.73,
+    "pronoun_profile": "Persuasion/Personalization"
+  },
+  "rhetorical_devices": {
+    "contrast_patterns": 1,
+    "questions_total": 8,
+    "rhetorical_questions": 0,
+    "numbered_lists": 6,
+    "imperatives": 0,
+    "rhetorical_density": 0.17
+  },
+  "temporal_anchoring": {
+    "past_focus": 6,
+    "present_focus": 20,
+    "future_focus": 1,
+    "past_percentage": 22.2,
+    "present_percentage": 74.1,
+    "future_percentage": 3.7,
+    "temporal_orientation": "present"
+  },
+  "sensory_anchors": {
+    "visual_count": 0,
+    "auditory_count": 1,
+    "kinesthetic_count": 0,
+    "dominant_sense": "auditory",
+    "sensory_richness": 0.18
+  },
+  "fear_vs_aspiration": {
+    "fear_count": 3,
+    "aspiration_count": 2,
+    "fear_percentage": 60.0,
+    "aspiration_percentage": 40.0,
+    "motivation_style": "fear-based"
+  },
+  "cadence_pacing": {
+    "avg_sentence_length": 6.3,
+    "shortest_sentence": 1,
+    "longest_sentence": 21,
+    "short_sentences": 57,
+    "medium_sentences": 28,
+    "long_sentences": 1,
+    "rhythm_changes": 4,
+    "pacing_style": "punchy"
+  }
+}

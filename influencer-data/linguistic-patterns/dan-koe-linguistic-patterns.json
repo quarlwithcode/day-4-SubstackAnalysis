@@ -1,0 +1,218 @@
+{
+  "influencer": "dan-koe",
+  "word_count": 27670,
+  "sentence_count": 1745,
+  "identity_framing": {
+    "you_focused": 1722,
+    "i_focused": 685,
+    "we_focused": 151,
+    "you_percentage": 67.3,
+    "i_percentage": 26.8,
+    "we_percentage": 5.9,
+    "primary_frame": "YOU"
+  },
+  "emotional_valence": {
+    "positive_count": 76,
+    "negative_count": 233,
+    "positivity_ratio": 0.25,
+    "urgent_count": 198,
+    "calm_count": 24,
+    "urgency_ratio": 0.89,
+    "emotional_tone": "negative",
+    "arousal_level": "high"
+  },
+  "metaphors": {
+    "metaphor_counts": {
+      "journey": 45,
+      "war": 4,
+      "building": 58,
+      "game": 12,
+      "nature": 8,
+      "machine": 24
+    },
+    "dominant_metaphor": "building",
+    "metaphor_diversity": 6
+  },
+  "repetition": {
+    "top_bigrams": [
+      [
+        "going to",
+        204
+      ],
+      [
+        "you can",
+        131
+      ],
+      [
+        "that you",
+        125
+      ],
+      [
+        "and then",
+        101
+      ],
+      [
+        "want to",
+        86
+      ],
+      [
+        "if you",
+        85
+      ],
+      [
+        "to be",
+        78
+      ],
+      [
+        "have to",
+        70
+      ],
+      [
+        "you don't",
+        65
+      ],
+      [
+        "you need",
+        65
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "going to be",
+        46
+      ],
+      [
+        "you have to",
+        35
+      ],
+      [
+        "you're going to",
+        35
+      ],
+      [
+        "is going to",
+        34
+      ],
+      [
+        "you need to",
+        31
+      ],
+      [
+        "that you can",
+        30
+      ],
+      [
+        "are going to",
+        27
+      ],
+      [
+        "you want to",
+        26
+      ],
+      [
+        "i want to",
+        23
+      ],
+      [
+        "it's going to",
+        21
+      ]
+    ],
+    "top_fourgrams": [
+      [
+        "going to talk about",
+        16
+      ],
+      [
+        "we're going to talk",
+        13
+      ],
+      [
+        "is going to be",
+        12
+      ],
+      [
+        "you're going to be",
+        12
+      ],
+      [
+        "going to have to",
+        11
+      ]
+    ],
+    "signature_phrases": [
+      [
+        "going to be",
+        46
+      ],
+      [
+        "you have to",
+        35
+      ],
+      [
+        "you're going to",
+        35
+      ],
+      [
+        "is going to",
+        34
+      ],
+      [
+        "you need to",
+        31
+      ]
+    ]
+  },
+  "pronouns": {
+    "i_count": 684,
+    "you_count": 1712,
+    "we_count": 151,
+    "they_count": 245,
+    "i_ratio": 2.47,
+    "you_ratio": 6.19,
+    "we_ratio": 0.55,
+    "they_ratio": 0.89,
+    "pronoun_profile": "Persuasion/Personalization"
+  },
+  "rhetorical_devices": {
+    "contrast_patterns": 5,
+    "questions_total": 147,
+    "rhetorical_questions": 9,
+    "numbered_lists": 289,
+    "imperatives": 0,
+    "rhetorical_density": 0.25
+  },
+  "temporal_anchoring": {
+    "past_focus": 131,
+    "present_focus": 684,
+    "future_focus": 95,
+    "past_percentage": 14.4,
+    "present_percentage": 75.2,
+    "future_percentage": 10.4,
+    "temporal_orientation": "present"
+  },
+  "sensory_anchors": {
+    "visual_count": 92,
+    "auditory_count": 40,
+    "kinesthetic_count": 45,
+    "dominant_sense": "visual",
+    "sensory_richness": 0.64
+  },
+  "fear_vs_aspiration": {
+    "fear_count": 12,
+    "aspiration_count": 97,
+    "fear_percentage": 11.0,
+    "aspiration_percentage": 89.0,
+    "motivation_style": "aspiration-based"
+  },
+  "cadence_pacing": {
+    "avg_sentence_length": 15.9,
+    "shortest_sentence": 1,
+    "longest_sentence": 113,
+    "short_sentences": 453,
+    "medium_sentences": 842,
+    "long_sentences": 450,
+    "rhythm_changes": 717,
+    "pacing_style": "balanced"
+  }
+}

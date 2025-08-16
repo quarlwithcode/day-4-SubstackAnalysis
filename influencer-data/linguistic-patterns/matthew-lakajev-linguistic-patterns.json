@@ -1,0 +1,218 @@
+{
+  "influencer": "matthew-lakajev",
+  "word_count": 487,
+  "sentence_count": 67,
+  "identity_framing": {
+    "you_focused": 16,
+    "i_focused": 14,
+    "we_focused": 0,
+    "you_percentage": 53.3,
+    "i_percentage": 46.7,
+    "we_percentage": 0.0,
+    "primary_frame": "YOU"
+  },
+  "emotional_valence": {
+    "positive_count": 0,
+    "negative_count": 10,
+    "positivity_ratio": 0.0,
+    "urgent_count": 1,
+    "calm_count": 0,
+    "urgency_ratio": 1.0,
+    "emotional_tone": "negative",
+    "arousal_level": "high"
+  },
+  "metaphors": {
+    "metaphor_counts": {
+      "journey": 0,
+      "war": 1,
+      "building": 1,
+      "game": 0,
+      "nature": 0,
+      "machine": 0
+    },
+    "dominant_metaphor": "war",
+    "metaphor_diversity": 2
+  },
+  "repetition": {
+    "top_bigrams": [
+      [
+        "every single",
+        3
+      ],
+      [
+        "needs to",
+        3
+      ],
+      [
+        "by day",
+        3
+      ],
+      [
+        "you'll have",
+        3
+      ],
+      [
+        "let me",
+        2
+      ],
+      [
+        "linkedin users",
+        2
+      ],
+      [
+        "users are",
+        2
+      ],
+      [
+        "i use",
+        2
+      ],
+      [
+        "care about",
+        2
+      ],
+      [
+        "here's what",
+        2
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "linkedin users are",
+        2
+      ],
+      [
+        "i posted one",
+        1
+      ],
+      [
+        "posted one thing",
+        1
+      ],
+      [
+        "one thing on",
+        1
+      ],
+      [
+        "thing on linkedin",
+        1
+      ],
+      [
+        "on linkedin and",
+        1
+      ],
+      [
+        "linkedin and got",
+        1
+      ],
+      [
+        "and got 10,066",
+        1
+      ],
+      [
+        "got 10,066 inbound",
+        1
+      ],
+      [
+        "10,066 inbound leads.",
+        1
+      ]
+    ],
+    "top_fourgrams": [
+      [
+        "i posted one thing",
+        1
+      ],
+      [
+        "posted one thing on",
+        1
+      ],
+      [
+        "one thing on linkedin",
+        1
+      ],
+      [
+        "thing on linkedin and",
+        1
+      ],
+      [
+        "on linkedin and got",
+        1
+      ]
+    ],
+    "signature_phrases": [
+      [
+        "linkedin users are",
+        2
+      ],
+      [
+        "i posted one",
+        1
+      ],
+      [
+        "posted one thing",
+        1
+      ],
+      [
+        "one thing on",
+        1
+      ],
+      [
+        "thing on linkedin",
+        1
+      ]
+    ]
+  },
+  "pronouns": {
+    "i_count": 14,
+    "you_count": 16,
+    "we_count": 0,
+    "they_count": 9,
+    "i_ratio": 2.87,
+    "you_ratio": 3.29,
+    "we_ratio": 0.0,
+    "they_ratio": 1.85,
+    "pronoun_profile": "Persuasion/Personalization"
+  },
+  "rhetorical_devices": {
+    "contrast_patterns": 0,
+    "questions_total": 4,
+    "rhetorical_questions": 0,
+    "numbered_lists": 8,
+    "imperatives": 0,
+    "rhetorical_density": 0.18
+  },
+  "temporal_anchoring": {
+    "past_focus": 3,
+    "present_focus": 6,
+    "future_focus": 1,
+    "past_percentage": 30.0,
+    "present_percentage": 60.0,
+    "future_percentage": 10.0,
+    "temporal_orientation": "present"
+  },
+  "sensory_anchors": {
+    "visual_count": 0,
+    "auditory_count": 0,
+    "kinesthetic_count": 1,
+    "dominant_sense": "kinesthetic",
+    "sensory_richness": 0.21
+  },
+  "fear_vs_aspiration": {
+    "fear_count": 0,
+    "aspiration_count": 0,
+    "fear_percentage": 0,
+    "aspiration_percentage": 0,
+    "motivation_style": "aspiration-based"
+  },
+  "cadence_pacing": {
+    "avg_sentence_length": 7.3,
+    "shortest_sentence": 1,
+    "longest_sentence": 15,
+    "short_sentences": 35,
+    "medium_sentences": 32,
+    "long_sentences": 0,
+    "rhythm_changes": 2,
+    "pacing_style": "punchy"
+  }
+}

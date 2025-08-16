@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "greg-isenberg-post-1",
+      "title": "Key Insight #1",
+      "content": "ever since i heard him say this, it's been stuck in my head",
+      "date": "2025-08-16T19:30:39.962679",
+      "engagement": 85
+    },
+    {
+      "id": "greg-isenberg-post-2",
+      "title": "Key Insight #2",
+      "content": "can you have one person come up with a billiondoll company",
+      "date": "2025-08-16T19:30:39.962680",
+      "engagement": 90
+    },
+    {
+      "id": "greg-isenberg-post-3",
+      "title": "Key Insight #3",
+      "content": "um, today's episode is about completely unpacking that",
+      "date": "2025-08-16T19:30:39.962681",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 5,
+  "influencerId": "greg-isenberg"
+}

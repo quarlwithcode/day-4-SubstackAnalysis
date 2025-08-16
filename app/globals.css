@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-notion-text;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-sans;
+  }
+  
+  p {
+    @apply font-sans;
+  }
+}
+
+@layer components {
+  .notion-page {
+    @apply max-w-4xl mx-auto px-4 py-8;
+  }
+  
+  .notion-card {
+    @apply bg-white border border-notion-border rounded-lg p-6 hover:shadow-modern-lg transition-all duration-200;
+  }
+  
+  .modern-card {
+    @apply bg-white/95 backdrop-blur-sm border border-notion-border/50 rounded-xl p-6 shadow-modern hover:shadow-modern-lg transition-all duration-200 hover:-translate-y-0.5;
+  }
+  
+  .glass-card {
+    @apply bg-white/80 backdrop-blur-md border border-white/20 rounded-xl p-6 shadow-modern;
+  }
+  
+  .notion-button {
+    @apply px-4 py-2 bg-notion-accent text-white rounded-md hover:bg-gray-800 transition-colors;
+  }
+  
+  .modern-button {
+    @apply px-6 py-3 bg-gradient-to-r from-notion-accent to-gray-700 text-white rounded-lg hover:shadow-modern-lg transform hover:-translate-y-0.5 transition-all duration-200 font-medium;
+  }
+  
+  .notion-input {
+    @apply w-full px-3 py-2 border border-notion-border rounded-md focus:outline-none focus:ring-1 focus:ring-notion-accent;
+  }
+  
+  .stat-badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-medium;
+  }
+  
+  .stat-badge-emerald {
+    @apply bg-modern-emerald-50 text-modern-emerald-700 border border-modern-emerald-100;
+  }
+  
+  .stat-badge-amber {
+    @apply bg-modern-amber-50 text-modern-amber-700 border border-modern-amber-100;
+  }
+  
+  .stat-badge-blue {
+    @apply bg-modern-blue-50 text-modern-blue-600 border border-modern-blue-100;
+  }
+  
+  .stat-badge-purple {
+    @apply bg-modern-purple-50 text-modern-purple-600 border border-modern-purple-100;
+  }
+  
+  .progress-bar {
+    @apply relative h-2 bg-notion-surface rounded-full overflow-hidden;
+  }
+  
+  .progress-fill {
+    @apply absolute left-0 top-0 h-full rounded-full transition-all duration-500;
+  }
+  
+  .insight-card {
+    @apply p-4 rounded-lg border-l-4 bg-white shadow-sm;
+  }
+  
+  .insight-success {
+    @apply border-modern-emerald-500 bg-modern-emerald-50/30;
+  }
+  
+  .insight-warning {
+    @apply border-modern-amber-500 bg-modern-amber-50/30;
+  }
+  
+  .insight-info {
+    @apply border-modern-blue-500 bg-modern-blue-50/30;
+  }
+  
+  .metric-card {
+    @apply bg-gradient-to-br from-white to-notion-surface p-6 rounded-xl shadow-modern border border-notion-border/30;
+  }
+}

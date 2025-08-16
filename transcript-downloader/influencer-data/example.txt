@@ -1,0 +1,16 @@
+Video Title: Example Video - How to Build Systems
+Influencer: Example Influencer
+URL: https://www.youtube.com/watch?v=example123
+Date Downloaded: 2025-08-16 10:00:00
+
+========================================
+TRANSCRIPT
+========================================
+
+This is an example transcript file showing the format that will be used for all downloaded YouTube transcripts. When you download a real transcript using the app, it will be saved in this format with the actual video content.
+
+The transcript will contain the full text from the YouTube video, which can then be used for neuropsychological analysis of the influencer's language patterns, key phrases, and communication style.
+
+Each file is named using the pattern: [influencer-name]-[video-title].txt
+
+This makes it easy to organize and find specific transcripts for analysis.

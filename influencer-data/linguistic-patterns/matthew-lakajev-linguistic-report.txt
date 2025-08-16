@@ -1,0 +1,77 @@
+LINGUISTIC PATTERN ANALYSIS: Matthew Lakajev
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 53.3% (16 instances)
+  I-focused: 46.7% (14 instances)
+  WE-focused: 0.0% (0 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.0
+  Urgency Ratio: 1.0
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: WAR
+Metaphor Usage:
+  war: 1 references
+  building: 1 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "linkedin users are" - 2x
+  "i posted one" - 1x
+  "posted one thing" - 1x
+  "one thing on" - 1x
+  "thing on linkedin" - 1x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Persuasion/Personalization
+  I/me/my: 2.87% of words
+  You/your: 3.29% of words
+  We/us/our: 0.0% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 0
+Questions: 4 (Rhetorical: 0)
+Numbered Lists: 8
+Imperatives: 0
+Rhetorical Density: 0.18
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 30.0%
+  Present: 60.0%
+  Future: 10.0%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: KINESTHETIC
+  Visual: 0 references
+  Auditory: 0 references
+  Kinesthetic: 1 references
+Sensory Richness: 0.21%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: ASPIRATION-BASED
+  Fear-based: 0%
+  Aspiration-based: 0%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: PUNCHY
+Average Sentence Length: 7.3 words
+  Short (<8 words): 35
+  Medium (8-20 words): 32
+  Long (>20 words): 0
+Rhythm Changes: 2

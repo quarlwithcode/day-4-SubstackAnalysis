@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "alex-hormozi-post-1",
+      "title": "Key Insight #1",
+      "content": "comom to be clear we don't sell coaching we invest in businesses and buy them and for context our average portfolio company over the first 12 months 1",
+      "date": "2025-08-16T19:30:39.965099",
+      "engagement": 85
+    },
+    {
+      "id": "alex-hormozi-post-2",
+      "title": "Key Insight #2",
+      "content": "01 x's profit and over their first 24 months they 2",
+      "date": "2025-08-16T19:30:39.965101",
+      "engagement": 90
+    },
+    {
+      "id": "alex-hormozi-post-3",
+      "title": "Key Insight #3",
+      "content": "comom association with me and now when my team goes out to the airport and is wearing a hat that says acquisition",
+      "date": "2025-08-16T19:30:39.965102",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 5,
+  "influencerId": "alex-hormozi"
+}

@@ -1,0 +1,218 @@
+{
+  "influencer": "dan-martell",
+  "word_count": 529,
+  "sentence_count": 77,
+  "identity_framing": {
+    "you_focused": 28,
+    "i_focused": 28,
+    "we_focused": 0,
+    "you_percentage": 50.0,
+    "i_percentage": 50.0,
+    "we_percentage": 0.0,
+    "primary_frame": "YOU"
+  },
+  "emotional_valence": {
+    "positive_count": 3,
+    "negative_count": 16,
+    "positivity_ratio": 0.16,
+    "urgent_count": 5,
+    "calm_count": 0,
+    "urgency_ratio": 1.0,
+    "emotional_tone": "negative",
+    "arousal_level": "high"
+  },
+  "metaphors": {
+    "metaphor_counts": {
+      "journey": 1,
+      "war": 0,
+      "building": 1,
+      "game": 0,
+      "nature": 0,
+      "machine": 0
+    },
+    "dominant_metaphor": "journey",
+    "metaphor_diversity": 2
+  },
+  "repetition": {
+    "top_bigrams": [
+      [
+        "here's what",
+        3
+      ],
+      [
+        "you can't",
+        3
+      ],
+      [
+        "waiting for",
+        3
+      ],
+      [
+        "you can",
+        2
+      ],
+      [
+        "i've been",
+        2
+      ],
+      [
+        "what i",
+        2
+      ],
+      [
+        "truth -",
+        2
+      ],
+      [
+        "become a",
+        2
+      ],
+      [
+        "start with",
+        2
+      ],
+      [
+        "trading time",
+        2
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "here's what i",
+        2
+      ],
+      [
+        "trading time for",
+        2
+      ],
+      [
+        "you have time",
+        2
+      ],
+      [
+        "waiting for the",
+        2
+      ],
+      [
+        "for the perfect",
+        2
+      ],
+      [
+        "stop waiting for",
+        2
+      ],
+      [
+        "look, i'm 44",
+        1
+      ],
+      [
+        "i'm 44 years",
+        1
+      ],
+      [
+        "44 years old",
+        1
+      ],
+      [
+        "years old and",
+        1
+      ]
+    ],
+    "top_fourgrams": [
+      [
+        "waiting for the perfect",
+        2
+      ],
+      [
+        "look, i'm 44 years",
+        1
+      ],
+      [
+        "i'm 44 years old",
+        1
+      ],
+      [
+        "44 years old and",
+        1
+      ],
+      [
+        "years old and i've",
+        1
+      ]
+    ],
+    "signature_phrases": [
+      [
+        "here's what i",
+        2
+      ],
+      [
+        "trading time for",
+        2
+      ],
+      [
+        "you have time",
+        2
+      ],
+      [
+        "waiting for the",
+        2
+      ],
+      [
+        "for the perfect",
+        2
+      ]
+    ]
+  },
+  "pronouns": {
+    "i_count": 29,
+    "you_count": 26,
+    "we_count": 0,
+    "they_count": 0,
+    "i_ratio": 5.48,
+    "you_ratio": 4.91,
+    "we_ratio": 0.0,
+    "they_ratio": 0.0,
+    "pronoun_profile": "Authority/Expertise"
+  },
+  "rhetorical_devices": {
+    "contrast_patterns": 0,
+    "questions_total": 4,
+    "rhetorical_questions": 0,
+    "numbered_lists": 10,
+    "imperatives": 0,
+    "rhetorical_density": 0.18
+  },
+  "temporal_anchoring": {
+    "past_focus": 4,
+    "present_focus": 10,
+    "future_focus": 1,
+    "past_percentage": 26.7,
+    "present_percentage": 66.7,
+    "future_percentage": 6.7,
+    "temporal_orientation": "present"
+  },
+  "sensory_anchors": {
+    "visual_count": 1,
+    "auditory_count": 0,
+    "kinesthetic_count": 0,
+    "dominant_sense": "visual",
+    "sensory_richness": 0.19
+  },
+  "fear_vs_aspiration": {
+    "fear_count": 3,
+    "aspiration_count": 1,
+    "fear_percentage": 75.0,
+    "aspiration_percentage": 25.0,
+    "motivation_style": "fear-based"
+  },
+  "cadence_pacing": {
+    "avg_sentence_length": 6.9,
+    "shortest_sentence": 1,
+    "longest_sentence": 20,
+    "short_sentences": 48,
+    "medium_sentences": 29,
+    "long_sentences": 0,
+    "rhythm_changes": 3,
+    "pacing_style": "punchy"
+  }
+}

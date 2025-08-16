@@ -1,0 +1,81 @@
+LINGUISTIC PATTERN ANALYSIS: Dan Koe
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 67.3% (1722 instances)
+  I-focused: 26.8% (685 instances)
+  WE-focused: 5.9% (151 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.25
+  Urgency Ratio: 0.89
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: BUILDING
+Metaphor Usage:
+  journey: 45 references
+  war: 4 references
+  building: 58 references
+  game: 12 references
+  nature: 8 references
+  machine: 24 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "going to be" - 46x
+  "you have to" - 35x
+  "you're going to" - 35x
+  "is going to" - 34x
+  "you need to" - 31x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Persuasion/Personalization
+  I/me/my: 2.47% of words
+  You/your: 6.19% of words
+  We/us/our: 0.55% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 5
+Questions: 147 (Rhetorical: 9)
+Numbered Lists: 289
+Imperatives: 0
+Rhetorical Density: 0.25
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 14.4%
+  Present: 75.2%
+  Future: 10.4%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: VISUAL
+  Visual: 92 references
+  Auditory: 40 references
+  Kinesthetic: 45 references
+Sensory Richness: 0.64%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: ASPIRATION-BASED
+  Fear-based: 11.0%
+  Aspiration-based: 89.0%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: BALANCED
+Average Sentence Length: 15.9 words
+  Short (<8 words): 453
+  Medium (8-20 words): 842
+  Long (>20 words): 450
+Rhythm Changes: 717

@@ -1,0 +1,218 @@
+{
+  "influencer": "chris-do",
+  "word_count": 516,
+  "sentence_count": 70,
+  "identity_framing": {
+    "you_focused": 35,
+    "i_focused": 12,
+    "we_focused": 1,
+    "you_percentage": 72.9,
+    "i_percentage": 25.0,
+    "we_percentage": 2.1,
+    "primary_frame": "YOU"
+  },
+  "emotional_valence": {
+    "positive_count": 2,
+    "negative_count": 10,
+    "positivity_ratio": 0.17,
+    "urgent_count": 1,
+    "calm_count": 0,
+    "urgency_ratio": 1.0,
+    "emotional_tone": "negative",
+    "arousal_level": "high"
+  },
+  "metaphors": {
+    "metaphor_counts": {
+      "journey": 0,
+      "war": 2,
+      "building": 2,
+      "game": 2,
+      "nature": 0,
+      "machine": 0
+    },
+    "dominant_metaphor": "war",
+    "metaphor_diversity": 3
+  },
+  "repetition": {
+    "top_bigrams": [
+      [
+        "to be",
+        3
+      ],
+      [
+        "most creatives",
+        3
+      ],
+      [
+        "a business",
+        3
+      ],
+      [
+        "let's talk",
+        2
+      ],
+      [
+        "talk about",
+        2
+      ],
+      [
+        "a brand",
+        2
+      ],
+      [
+        "brand is",
+        2
+      ],
+      [
+        "it's not",
+        2
+      ],
+      [
+        "not your",
+        2
+      ],
+      [
+        "here's what",
+        2
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "let's talk about",
+        2
+      ],
+      [
+        "a brand is",
+        2
+      ],
+      [
+        "it's not your",
+        2
+      ],
+      [
+        "you'll be treated",
+        2
+      ],
+      [
+        "be treated as",
+        2
+      ],
+      [
+        "talk about personal",
+        1
+      ],
+      [
+        "about personal branding.",
+        1
+      ],
+      [
+        "personal branding. not",
+        1
+      ],
+      [
+        "branding. not the",
+        1
+      ],
+      [
+        "not the surface",
+        1
+      ]
+    ],
+    "top_fourgrams": [
+      [
+        "you'll be treated as",
+        2
+      ],
+      [
+        "let's talk about personal",
+        1
+      ],
+      [
+        "talk about personal branding.",
+        1
+      ],
+      [
+        "about personal branding. not",
+        1
+      ],
+      [
+        "personal branding. not the",
+        1
+      ]
+    ],
+    "signature_phrases": [
+      [
+        "let's talk about",
+        2
+      ],
+      [
+        "a brand is",
+        2
+      ],
+      [
+        "it's not your",
+        2
+      ],
+      [
+        "you'll be treated",
+        2
+      ],
+      [
+        "be treated as",
+        2
+      ]
+    ]
+  },
+  "pronouns": {
+    "i_count": 12,
+    "you_count": 32,
+    "we_count": 1,
+    "they_count": 4,
+    "i_ratio": 2.33,
+    "you_ratio": 6.2,
+    "we_ratio": 0.19,
+    "they_ratio": 0.78,
+    "pronoun_profile": "Persuasion/Personalization"
+  },
+  "rhetorical_devices": {
+    "contrast_patterns": 1,
+    "questions_total": 6,
+    "rhetorical_questions": 0,
+    "numbered_lists": 6,
+    "imperatives": 0,
+    "rhetorical_density": 0.19
+  },
+  "temporal_anchoring": {
+    "past_focus": 3,
+    "present_focus": 13,
+    "future_focus": 4,
+    "past_percentage": 15.0,
+    "present_percentage": 65.0,
+    "future_percentage": 20.0,
+    "temporal_orientation": "present"
+  },
+  "sensory_anchors": {
+    "visual_count": 3,
+    "auditory_count": 0,
+    "kinesthetic_count": 0,
+    "dominant_sense": "visual",
+    "sensory_richness": 0.58
+  },
+  "fear_vs_aspiration": {
+    "fear_count": 0,
+    "aspiration_count": 1,
+    "fear_percentage": 0.0,
+    "aspiration_percentage": 100.0,
+    "motivation_style": "aspiration-based"
+  },
+  "cadence_pacing": {
+    "avg_sentence_length": 7.4,
+    "shortest_sentence": 2,
+    "longest_sentence": 19,
+    "short_sentences": 40,
+    "medium_sentences": 30,
+    "long_sentences": 0,
+    "rhythm_changes": 3,
+    "pacing_style": "punchy"
+  }
+}

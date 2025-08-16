@@ -1,0 +1,37 @@
+CREATOR LANGUAGE PROFILE: Dan Martell
+============================================================
+Source Files: 1 transcripts
+Original Word Count: 531
+Cleaned Word Count: 529
+Reduction: 0.4%
+============================================================
+
+TOP KEY PHRASES (3-word patterns):
+----------------------------------------
+here's what i: 2 occurrences
+trading time for: 2 occurrences
+you have time: 2 occurrences
+waiting for the: 2 occurrences
+for the perfect: 2 occurrences
+stop waiting for: 2 occurrences
+look, i'm 44: 1 occurrences
+i'm 44 years: 1 occurrences
+44 years old: 1 occurrences
+years old and: 1 occurrences
+old and i've: 1 occurrences
+and i've made: 1 occurrences
+i've made every: 1 occurrences
+made every mistake: 1 occurrences
+every mistake you: 1 occurrences
+mistake you can: 1 occurrences
+you can make.: 1 occurrences
+can make. drug: 1 occurrences
+make. drug addiction,: 1 occurrences
+drug addiction, prison,: 1 occurrences
+
+============================================================
+
+CLEANED TRANSCRIPT TEXT:
+============================================================
+
+look, i'm 44 years old and i've made every mistake you can make. drug addiction, prison, bankruptcy - i've been there. now i run multiple eight-figure companies. here's what i wish i knew at 20. first brutal truth - nobody's coming to save you. not your parents, not the government, not some magical opportunity. you are the only person responsible for your success. i learned this in prison at 17. you either become a victim or you become victorious. there's no middle ground. i chose victorious and it changed everything. second truth - your network is your net worth, but not how you think. it's not about knowing rich people. it's about becoming someone worth knowing. value first, always. when i got out of prison, i had nothing. but i started adding value to everyone i met. free work, introductions, solving problems. within two years, millionaires were calling me for advice. here's my framework for wealth - the 5 p's. person, product, process, performance, and profit. most people start with profit. that's backwards. start with becoming the person who deserves success. the biggest shift? stop trading time for money. i built my first saas company because i was tired of billing hours. software scales infinitely. services don't. if you're in your 20s or 30s, here's what you need to understand - you have time arbitrage. you can take bigger risks because you have time to recover. use it. i see people afraid of rejection. let me delete that fear in 58 seconds. rejection is data. every no teaches you something. i've been rejected thousands of times. each one made me better. the nine ai skills you need for 2025? forget the tools. learn to think in systems. ai is leverage. if you can't think systematically, ai won't help you. here's what i quit to become a millionaire. television, negative people, perfectionism, comparing myself to others, saying yes to everything, making excuses, and waiting for the perfect moment. my morning routine starts at 4:47 am. not 5, not 4:45 - exactly 4:47. why? because that specificity creates commitment. i meditate, journal, work out, and plan my day before anyone else is awake. the fastest path from zero to a million? solve expensive problems for people who can afford to pay. my first million came from helping saas companies reduce churn. one problem, big value, premium pricing. let me share something about hiring. a players hire a players. b players hire c players. never compromise on talent. one bad hire can destroy your culture. the coaching business model is broken. trading time for money has a ceiling. that's why i built software, courses, and communities. multiple revenue streams, all scalable. here's the truth about success - it's rented, not owned. and rent is due every single day. you can't coast. you can't relax. you must keep pushing forward. if you're struggling now, good. struggle creates strength. every challenge is preparing you for the next level. embrace it, learn from it, use it as fuel. stop waiting for permission. stop waiting for the perfect plan. start now with what you have. iterate as you go. speed of implementation beats perfection every time.

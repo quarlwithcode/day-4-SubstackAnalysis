@@ -1,0 +1,247 @@
+[
+  {
+    "id": "liam-ottley",
+    "name": "Liam Ottley",
+    "slug": "liam-ottley",
+    "avatar": "/avatars/liam-ottley.jpg",
+    "bio": "Liam Ottley uses 62% YOU-focused, 38% I-focused, and 0% WE-focused language. Leverages journey metaphors (3 references) with 100% urgency to drive engagement.",
+    "stats": {
+      "posts": 1,
+      "words": 478,
+      "engagement": 78,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-62%",
+      "journey-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "growth-oriented"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873194"
+  },
+  {
+    "id": "chris-do",
+    "name": "Chris Do",
+    "slug": "chris-do",
+    "avatar": "/avatars/chris-do.jpg",
+    "bio": "Chris Do uses 73% YOU-focused, 25% I-focused, and 2% WE-focused language. Leverages war metaphors (2 references) with 100% urgency to drive engagement.",
+    "stats": {
+      "posts": 1,
+      "words": 516,
+      "engagement": 82,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-73%",
+      "war-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "growth-oriented"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873252"
+  },
+  {
+    "id": "greg-isenberg",
+    "name": "Greg Isenberg",
+    "slug": "greg-isenberg",
+    "avatar": "/avatars/greg-isenberg.jpg",
+    "bio": "Greg Isenberg combines startup expertise (45% authority language) with direct coaching (48% YOU-focus). Uses 81 building metaphors and 10 strategic questions to construct systematic frameworks. His 97% urgency ratio drives immediate implementation.",
+    "stats": {
+      "posts": 5,
+      "words": 27090,
+      "engagement": 75,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-48%",
+      "building-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "growth-oriented",
+      "startup-builder"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873293"
+  },
+  {
+    "id": "alex-hormozi",
+    "name": "Alex Hormozi",
+    "slug": "alex-hormozi",
+    "avatar": "/avatars/alex-hormozi.jpg",
+    "bio": "Alex Hormozi transforms business into a winnable game with 184 game-based references. Masters psychological triggers through 52% direct address and 14% inclusive language, creating 91% urgency. His 1723-word flowing sentences build momentum toward action.",
+    "stats": {
+      "posts": 5,
+      "words": 53393,
+      "engagement": 81,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-52%",
+      "game-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "growth-oriented",
+      "game-master"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873329"
+  },
+  {
+    "id": "gary-vaynerchuk",
+    "name": "Gary Vaynerchuk",
+    "slug": "gary-vaynerchuk",
+    "avatar": "/avatars/gary-vaynerchuk.jpg",
+    "bio": "Gary Vaynerchuk drives action through extreme urgency (100%) and 84% direct address. His fear based approach with signature phrase 'the hack is' cuts through noise. Master of attention economics, transforming hustle into systematic wins.",
+    "stats": {
+      "posts": 1,
+      "words": 545,
+      "engagement": 65,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-84%",
+      "game-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "security-oriented"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873553"
+  },
+  {
+    "id": "david-ondrej",
+    "name": "David Ondrej",
+    "slug": "david-ondrej",
+    "avatar": "/avatars/david-ondrej.jpg",
+    "bio": "David Ondrej uses 68% YOU-focused, 26% I-focused, and 6% WE-focused language. Leverages building metaphors (3 references) with 100% urgency to drive engagement.",
+    "stats": {
+      "posts": 1,
+      "words": 379,
+      "engagement": 71,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-68%",
+      "building-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "security-oriented"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873582"
+  },
+  {
+    "id": "dan-koe",
+    "name": "Dan Koe",
+    "slug": "dan-koe",
+    "avatar": "/avatars/dan-koe.jpg",
+    "bio": "Dan Koe architects personal transformation through 67% personalized guidance and 58 system-building references. With 5 signature phrases and 717 rhythm shifts, creates memorable frameworks for life design.",
+    "stats": {
+      "posts": 6,
+      "words": 27670,
+      "engagement": 81,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-67%",
+      "building-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "growth-oriented",
+      "systems-designer"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873616"
+  },
+  {
+    "id": "matthew-lakajev",
+    "name": "Matthew Lakajev",
+    "slug": "matthew-lakajev",
+    "avatar": "/avatars/matthew-lakajev.jpg",
+    "bio": "Matthew Lakajev uses 53% YOU-focused, 47% I-focused, and 0% WE-focused language. Leverages war metaphors (1 references) with 100% urgency to drive engagement.",
+    "stats": {
+      "posts": 1,
+      "words": 487,
+      "engagement": 72,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-53%",
+      "war-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "growth-oriented"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873655"
+  },
+  {
+    "id": "ali-abdaal",
+    "name": "Ali Abdaal",
+    "slug": "ali-abdaal",
+    "avatar": "/avatars/ali-abdaal.jpg",
+    "bio": "Ali Abdaal uses 52% YOU-focused, 48% I-focused, and 0% WE-focused language. Leverages war metaphors (1 references) with 100% urgency to drive engagement.",
+    "stats": {
+      "posts": 1,
+      "words": 539,
+      "engagement": 70,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-52%",
+      "war-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "growth-oriented"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873685"
+  },
+  {
+    "id": "shan-hanif",
+    "name": "Shan Hanif",
+    "slug": "shan-hanif",
+    "avatar": "/avatars/shan-hanif.jpg",
+    "bio": "Shan Hanif uses 8% YOU-focused, 17% I-focused, and 76% WE-focused language. Leverages journey metaphors (8 references) with 100% urgency to drive engagement.",
+    "stats": {
+      "posts": 1,
+      "words": 1325,
+      "engagement": 37,
+      "patterns": 5
+    },
+    "tags": [
+      "WE-76%",
+      "journey-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "security-oriented"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873713"
+  },
+  {
+    "id": "dan-martell",
+    "name": "Dan Martell",
+    "slug": "dan-martell",
+    "avatar": "/avatars/dan-martell.jpg",
+    "bio": "Dan Martell uses 50% YOU-focused, 50% I-focused, and 0% WE-focused language. Leverages journey metaphors (1 references) with 100% urgency to drive engagement.",
+    "stats": {
+      "posts": 1,
+      "words": 529,
+      "engagement": 55,
+      "patterns": 5
+    },
+    "tags": [
+      "YOU-50%",
+      "journey-metaphor",
+      "driven-tone",
+      "high-urgency",
+      "present-focused",
+      "security-oriented"
+    ],
+    "lastAnalyzed": "2025-08-16T19:30:39.873747"
+  }
+]

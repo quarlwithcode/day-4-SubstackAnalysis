@@ -1,0 +1,81 @@
+LINGUISTIC PATTERN ANALYSIS: Alex Hormozi
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 52.3% (2623 instances)
+  I-focused: 33.4% (1674 instances)
+  WE-focused: 14.4% (721 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.35
+  Urgency Ratio: 0.91
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: GAME
+Metaphor Usage:
+  journey: 48 references
+  war: 8 references
+  building: 55 references
+  game: 184 references
+  nature: 40 references
+  machine: 46 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "i'm going to" - 69x
+  "you have to" - 67x
+  "you want to" - 66x
+  "[ __ ]" - 64x
+  "you're going to" - 51x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Persuasion/Personalization
+  I/me/my: 3.15% of words
+  You/your: 4.96% of words
+  We/us/our: 1.36% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 21
+Questions: 0 (Rhetorical: 34)
+Numbered Lists: 621
+Imperatives: 0
+Rhetorical Density: 20.71
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 26.2%
+  Present: 62.2%
+  Future: 11.6%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: AUDITORY
+  Visual: 199 references
+  Auditory: 270 references
+  Kinesthetic: 58 references
+Sensory Richness: 0.99%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: ASPIRATION-BASED
+  Fear-based: 23.7%
+  Aspiration-based: 76.3%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: FLOWING
+Average Sentence Length: 1722.8 words
+  Short (<8 words): 4
+  Medium (8-20 words): 3
+  Long (>20 words): 24
+Rhythm Changes: 27

@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "liam-ottley-post-1",
+      "title": "Key Insight #1",
+      "content": "look, if you want to get rich with ai in 2025, you need to understand this one thing - it's not about the technology, it's about the business model",
+      "date": "2025-08-16T19:30:39.961119",
+      "engagement": 85
+    },
+    {
+      "id": "liam-ottley-post-2",
+      "title": "Key Insight #2",
+      "content": "i've built multiple seven-figure ai agencies and i'm going to show you exactly how to do it",
+      "date": "2025-08-16T19:30:39.961120",
+      "engagement": 90
+    },
+    {
+      "id": "liam-ottley-post-3",
+      "title": "Key Insight #3",
+      "content": "every single business needs ai now but they don't know how to implement it",
+      "date": "2025-08-16T19:30:39.961121",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 1,
+  "influencerId": "liam-ottley"
+}

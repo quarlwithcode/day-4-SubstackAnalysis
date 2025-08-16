@@ -1,0 +1,218 @@
+{
+  "influencer": "david-ondrej",
+  "word_count": 379,
+  "sentence_count": 54,
+  "identity_framing": {
+    "you_focused": 21,
+    "i_focused": 8,
+    "we_focused": 2,
+    "you_percentage": 67.7,
+    "i_percentage": 25.8,
+    "we_percentage": 6.5,
+    "primary_frame": "YOU"
+  },
+  "emotional_valence": {
+    "positive_count": 1,
+    "negative_count": 3,
+    "positivity_ratio": 0.25,
+    "urgent_count": 7,
+    "calm_count": 0,
+    "urgency_ratio": 1.0,
+    "emotional_tone": "negative",
+    "arousal_level": "high"
+  },
+  "metaphors": {
+    "metaphor_counts": {
+      "journey": 0,
+      "war": 0,
+      "building": 3,
+      "game": 0,
+      "nature": 0,
+      "machine": 2
+    },
+    "dominant_metaphor": "building",
+    "metaphor_diversity": 2
+  },
+  "repetition": {
+    "top_bigrams": [
+      [
+        "let me",
+        4
+      ],
+      [
+        "me show",
+        3
+      ],
+      [
+        "to build",
+        3
+      ],
+      [
+        "going to",
+        3
+      ],
+      [
+        "if you",
+        3
+      ],
+      [
+        "llama 3.2",
+        2
+      ],
+      [
+        "show you",
+        2
+      ],
+      [
+        "you want",
+        2
+      ],
+      [
+        "here's the",
+        2
+      ],
+      [
+        "- the",
+        2
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "let me show",
+        3
+      ],
+      [
+        "me show you",
+        2
+      ],
+      [
+        "if you want",
+        2
+      ],
+      [
+        "going to build",
+        2
+      ],
+      [
+        "to build a",
+        2
+      ],
+      [
+        "alright, llama 3.2",
+        1
+      ],
+      [
+        "llama 3.2 dropped",
+        1
+      ],
+      [
+        "3.2 dropped and",
+        1
+      ],
+      [
+        "dropped and honestly,",
+        1
+      ],
+      [
+        "and honestly, this",
+        1
+      ]
+    ],
+    "top_fourgrams": [
+      [
+        "let me show you",
+        2
+      ],
+      [
+        "going to build a",
+        2
+      ],
+      [
+        "alright, llama 3.2 dropped",
+        1
+      ],
+      [
+        "llama 3.2 dropped and",
+        1
+      ],
+      [
+        "3.2 dropped and honestly,",
+        1
+      ]
+    ],
+    "signature_phrases": [
+      [
+        "let me show",
+        3
+      ],
+      [
+        "me show you",
+        2
+      ],
+      [
+        "if you want",
+        2
+      ],
+      [
+        "going to build",
+        2
+      ],
+      [
+        "to build a",
+        2
+      ]
+    ]
+  },
+  "pronouns": {
+    "i_count": 8,
+    "you_count": 20,
+    "we_count": 2,
+    "they_count": 1,
+    "i_ratio": 2.11,
+    "you_ratio": 5.28,
+    "we_ratio": 0.53,
+    "they_ratio": 0.26,
+    "pronoun_profile": "Persuasion/Personalization"
+  },
+  "rhetorical_devices": {
+    "contrast_patterns": 0,
+    "questions_total": 1,
+    "rhetorical_questions": 0,
+    "numbered_lists": 9,
+    "imperatives": 0,
+    "rhetorical_density": 0.19
+  },
+  "temporal_anchoring": {
+    "past_focus": 0,
+    "present_focus": 8,
+    "future_focus": 1,
+    "past_percentage": 0.0,
+    "present_percentage": 88.9,
+    "future_percentage": 11.1,
+    "temporal_orientation": "present"
+  },
+  "sensory_anchors": {
+    "visual_count": 5,
+    "auditory_count": 1,
+    "kinesthetic_count": 0,
+    "dominant_sense": "visual",
+    "sensory_richness": 1.58
+  },
+  "fear_vs_aspiration": {
+    "fear_count": 1,
+    "aspiration_count": 0,
+    "fear_percentage": 100.0,
+    "aspiration_percentage": 0.0,
+    "motivation_style": "fear-based"
+  },
+  "cadence_pacing": {
+    "avg_sentence_length": 7.1,
+    "shortest_sentence": 1,
+    "longest_sentence": 17,
+    "short_sentences": 30,
+    "medium_sentences": 24,
+    "long_sentences": 0,
+    "rhythm_changes": 4,
+    "pacing_style": "punchy"
+  }
+}

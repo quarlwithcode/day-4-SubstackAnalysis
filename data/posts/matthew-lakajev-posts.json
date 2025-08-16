@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "matthew-lakajev-post-1",
+      "title": "Key Insight #1",
+      "content": "i posted one thing on linkedin and got 10,066 inbound leads",
+      "date": "2025-08-16T19:30:39.967244",
+      "engagement": 85
+    },
+    {
+      "id": "matthew-lakajev-post-2",
+      "title": "Key Insight #2",
+      "content": "every line break, every emoji, every capital letter - all tested, all optimized",
+      "date": "2025-08-16T19:30:39.967245",
+      "engagement": 90
+    },
+    {
+      "id": "matthew-lakajev-post-3",
+      "title": "Key Insight #3",
+      "content": "here's the formula: hook, story, lesson, call to action",
+      "date": "2025-08-16T19:30:39.967246",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 1,
+  "influencerId": "matthew-lakajev"
+}

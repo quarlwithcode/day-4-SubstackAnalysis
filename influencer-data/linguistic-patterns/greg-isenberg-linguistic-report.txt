@@ -1,0 +1,81 @@
+LINGUISTIC PATTERN ANALYSIS: Greg Isenberg
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 47.5% (1115 instances)
+  I-focused: 44.7% (1048 instances)
+  WE-focused: 7.8% (183 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.46
+  Urgency Ratio: 0.97
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: BUILDING
+Metaphor Usage:
+  journey: 15 references
+  war: 1 references
+  building: 81 references
+  game: 26 references
+  nature: 2 references
+  machine: 9 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "a lot of" - 54x
+  "going to be" - 44x
+  "you're going to" - 44x
+  "i want to" - 37x
+  "you want to" - 31x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Persuasion/Personalization
+  I/me/my: 3.85% of words
+  You/your: 4.12% of words
+  We/us/our: 0.67% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 3
+Questions: 67 (Rhetorical: 10)
+Numbered Lists: 216
+Imperatives: 0
+Rhetorical Density: 0.3
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 23.7%
+  Present: 67.4%
+  Future: 8.9%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: AUDITORY
+  Visual: 122 references
+  Auditory: 126 references
+  Kinesthetic: 17 references
+Sensory Richness: 0.98%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: ASPIRATION-BASED
+  Fear-based: 18.6%
+  Aspiration-based: 81.4%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: FLOWING
+Average Sentence Length: 28.3 words
+  Short (<8 words): 273
+  Medium (8-20 words): 479
+  Long (>20 words): 207
+Rhythm Changes: 362

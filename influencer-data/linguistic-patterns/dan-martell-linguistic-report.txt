@@ -1,0 +1,77 @@
+LINGUISTIC PATTERN ANALYSIS: Dan Martell
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 50.0% (28 instances)
+  I-focused: 50.0% (28 instances)
+  WE-focused: 0.0% (0 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.16
+  Urgency Ratio: 1.0
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: JOURNEY
+Metaphor Usage:
+  journey: 1 references
+  building: 1 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "here's what i" - 2x
+  "trading time for" - 2x
+  "you have time" - 2x
+  "waiting for the" - 2x
+  "for the perfect" - 2x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Authority/Expertise
+  I/me/my: 5.48% of words
+  You/your: 4.91% of words
+  We/us/our: 0.0% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 0
+Questions: 4 (Rhetorical: 0)
+Numbered Lists: 10
+Imperatives: 0
+Rhetorical Density: 0.18
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 26.7%
+  Present: 66.7%
+  Future: 6.7%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: VISUAL
+  Visual: 1 references
+  Auditory: 0 references
+  Kinesthetic: 0 references
+Sensory Richness: 0.19%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: FEAR-BASED
+  Fear-based: 75.0%
+  Aspiration-based: 25.0%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: PUNCHY
+Average Sentence Length: 6.9 words
+  Short (<8 words): 48
+  Medium (8-20 words): 29
+  Long (>20 words): 0
+Rhythm Changes: 3

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Transcript Downloader</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📹 YouTube Transcript Downloader</h1>
+            <p class="subtitle">Extract transcripts from YouTube videos for influencer analysis</p>
+        </header>
+
+        <main>
+            <div class="form-card">
+                <h2>Download Transcript</h2>
+                <form id="transcriptForm">
+                    <div class="form-group">
+                        <label for="url">YouTube URL</label>
+                        <input 
+                            type="url" 
+                            id="url" 
+                            name="url" 
+                            placeholder="https://www.youtube.com/watch?v=..." 
+                            required
+                        >
+                        <small>Supports youtube.com and youtu.be links</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="influencer">Influencer Name</label>
+                        <div class="input-with-dropdown">
+                            <input 
+                                type="text" 
+                                id="influencer" 
+                                name="influencer" 
+                                placeholder="e.g., Greg Isenberg" 
+                                list="influencersList"
+                                required
+                            >
+                            <datalist id="influencersList"></datalist>
+                        </div>
+                        <small>Select from existing or enter new name</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="title">Video Title</label>
+                        <input 
+                            type="text" 
+                            id="title" 
+                            name="title" 
+                            placeholder="e.g., How to Build a $10M Business" 
+                            required
+                        >
+                        <small>A descriptive title for the video</small>
+                    </div>
+
+                    <button type="submit" id="submitBtn" class="btn-primary">
+                        <span id="btnText">Download Transcript</span>
+                        <span id="spinner" class="spinner hidden"></span>
+                    </button>
+                </form>
+
+                <div id="message" class="message hidden"></div>
+            </div>
+
+            <div class="transcripts-card">
+                <div class="transcripts-header">
+                    <h2>Downloaded Transcripts</h2>
+                    <button id="refreshBtn" class="btn-secondary">↻ Refresh</button>
+                </div>
+                <div id="transcriptsList" class="transcripts-list">
+                    <div class="loading">Loading transcripts...</div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>💡 Tip: Transcripts are saved as .txt files in the <code>influencer-data</code> folder</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

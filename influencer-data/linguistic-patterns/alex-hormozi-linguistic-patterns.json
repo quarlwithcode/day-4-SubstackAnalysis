@@ -1,0 +1,218 @@
+{
+  "influencer": "alex-hormozi",
+  "word_count": 53393,
+  "sentence_count": 31,
+  "identity_framing": {
+    "you_focused": 2623,
+    "i_focused": 1674,
+    "we_focused": 721,
+    "you_percentage": 52.3,
+    "i_percentage": 33.4,
+    "we_percentage": 14.4,
+    "primary_frame": "YOU"
+  },
+  "emotional_valence": {
+    "positive_count": 336,
+    "negative_count": 621,
+    "positivity_ratio": 0.35,
+    "urgent_count": 387,
+    "calm_count": 40,
+    "urgency_ratio": 0.91,
+    "emotional_tone": "negative",
+    "arousal_level": "high"
+  },
+  "metaphors": {
+    "metaphor_counts": {
+      "journey": 48,
+      "war": 8,
+      "building": 55,
+      "game": 184,
+      "nature": 40,
+      "machine": 46
+    },
+    "dominant_metaphor": "game",
+    "metaphor_diversity": 6
+  },
+  "repetition": {
+    "top_bigrams": [
+      [
+        "going to",
+        282
+      ],
+      [
+        "and then",
+        223
+      ],
+      [
+        "that you",
+        212
+      ],
+      [
+        "if you",
+        194
+      ],
+      [
+        "this is",
+        176
+      ],
+      [
+        "want to",
+        173
+      ],
+      [
+        "you can",
+        163
+      ],
+      [
+        "to do",
+        153
+      ],
+      [
+        "and i",
+        152
+      ],
+      [
+        "you have",
+        145
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "i'm going to",
+        69
+      ],
+      [
+        "you have to",
+        67
+      ],
+      [
+        "you want to",
+        66
+      ],
+      [
+        "[ __ ]",
+        64
+      ],
+      [
+        "you're going to",
+        51
+      ],
+      [
+        "a lot of",
+        49
+      ],
+      [
+        "i want to",
+        47
+      ],
+      [
+        "and this is",
+        43
+      ],
+      [
+        "that you can",
+        38
+      ],
+      [
+        "you need to",
+        37
+      ]
+    ],
+    "top_fourgrams": [
+      [
+        "if you want to",
+        21
+      ],
+      [
+        "all of a sudden",
+        14
+      ],
+      [
+        "that you want to",
+        12
+      ],
+      [
+        "is one of the",
+        11
+      ],
+      [
+        "that you're going to",
+        11
+      ]
+    ],
+    "signature_phrases": [
+      [
+        "i'm going to",
+        69
+      ],
+      [
+        "you have to",
+        67
+      ],
+      [
+        "you want to",
+        66
+      ],
+      [
+        "[ __ ]",
+        64
+      ],
+      [
+        "you're going to",
+        51
+      ]
+    ]
+  },
+  "pronouns": {
+    "i_count": 1680,
+    "you_count": 2647,
+    "we_count": 728,
+    "they_count": 736,
+    "i_ratio": 3.15,
+    "you_ratio": 4.96,
+    "we_ratio": 1.36,
+    "they_ratio": 1.38,
+    "pronoun_profile": "Persuasion/Personalization"
+  },
+  "rhetorical_devices": {
+    "contrast_patterns": 21,
+    "questions_total": 0,
+    "rhetorical_questions": 34,
+    "numbered_lists": 621,
+    "imperatives": 0,
+    "rhetorical_density": 20.71
+  },
+  "temporal_anchoring": {
+    "past_focus": 596,
+    "present_focus": 1413,
+    "future_focus": 263,
+    "past_percentage": 26.2,
+    "present_percentage": 62.2,
+    "future_percentage": 11.6,
+    "temporal_orientation": "present"
+  },
+  "sensory_anchors": {
+    "visual_count": 199,
+    "auditory_count": 270,
+    "kinesthetic_count": 58,
+    "dominant_sense": "auditory",
+    "sensory_richness": 0.99
+  },
+  "fear_vs_aspiration": {
+    "fear_count": 56,
+    "aspiration_count": 180,
+    "fear_percentage": 23.7,
+    "aspiration_percentage": 76.3,
+    "motivation_style": "aspiration-based"
+  },
+  "cadence_pacing": {
+    "avg_sentence_length": 1722.8,
+    "shortest_sentence": 1,
+    "longest_sentence": 7069,
+    "short_sentences": 4,
+    "medium_sentences": 3,
+    "long_sentences": 24,
+    "rhythm_changes": 27,
+    "pacing_style": "flowing"
+  }
+}

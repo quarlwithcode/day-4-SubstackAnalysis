@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "shan-hanif-post-1",
+      "title": "Key Insight #1",
+      "content": "i'm going to show you exactly how we do it, step by step, nothing held back",
+      "date": "2025-08-16T19:30:39.967579",
+      "engagement": 85
+    },
+    {
+      "id": "shan-hanif-post-2",
+      "title": "Key Insight #2",
+      "content": "we have 47 employees, 300+ clients, and our average client pays us $6,400 per month",
+      "date": "2025-08-16T19:30:39.967580",
+      "engagement": 90
+    },
+    {
+      "id": "shan-hanif-post-3",
+      "title": "Key Insight #3",
+      "content": "we call it the triple c system - capture, convert, compound",
+      "date": "2025-08-16T19:30:39.967581",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 1,
+  "influencerId": "shan-hanif"
+}

@@ -1,0 +1,77 @@
+LINGUISTIC PATTERN ANALYSIS: David Ondrej
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 67.7% (21 instances)
+  I-focused: 25.8% (8 instances)
+  WE-focused: 6.5% (2 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.25
+  Urgency Ratio: 1.0
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: BUILDING
+Metaphor Usage:
+  building: 3 references
+  machine: 2 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "let me show" - 3x
+  "me show you" - 2x
+  "if you want" - 2x
+  "going to build" - 2x
+  "to build a" - 2x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Persuasion/Personalization
+  I/me/my: 2.11% of words
+  You/your: 5.28% of words
+  We/us/our: 0.53% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 0
+Questions: 1 (Rhetorical: 0)
+Numbered Lists: 9
+Imperatives: 0
+Rhetorical Density: 0.19
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 0.0%
+  Present: 88.9%
+  Future: 11.1%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: VISUAL
+  Visual: 5 references
+  Auditory: 1 references
+  Kinesthetic: 0 references
+Sensory Richness: 1.58%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: FEAR-BASED
+  Fear-based: 100.0%
+  Aspiration-based: 0.0%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: PUNCHY
+Average Sentence Length: 7.1 words
+  Short (<8 words): 30
+  Medium (8-20 words): 24
+  Long (>20 words): 0
+Rhythm Changes: 4

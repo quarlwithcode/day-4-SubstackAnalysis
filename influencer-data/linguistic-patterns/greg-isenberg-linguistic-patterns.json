@@ -1,0 +1,218 @@
+{
+  "influencer": "greg-isenberg",
+  "word_count": 27090,
+  "sentence_count": 959,
+  "identity_framing": {
+    "you_focused": 1115,
+    "i_focused": 1048,
+    "we_focused": 183,
+    "you_percentage": 47.5,
+    "i_percentage": 44.7,
+    "we_percentage": 7.8,
+    "primary_frame": "YOU"
+  },
+  "emotional_valence": {
+    "positive_count": 159,
+    "negative_count": 186,
+    "positivity_ratio": 0.46,
+    "urgent_count": 152,
+    "calm_count": 5,
+    "urgency_ratio": 0.97,
+    "emotional_tone": "negative",
+    "arousal_level": "high"
+  },
+  "metaphors": {
+    "metaphor_counts": {
+      "journey": 15,
+      "war": 1,
+      "building": 81,
+      "game": 26,
+      "nature": 2,
+      "machine": 9
+    },
+    "dominant_metaphor": "building",
+    "metaphor_diversity": 6
+  },
+  "repetition": {
+    "top_bigrams": [
+      [
+        "going to",
+        193
+      ],
+      [
+        "you can",
+        168
+      ],
+      [
+        "and then",
+        131
+      ],
+      [
+        "want to",
+        108
+      ],
+      [
+        "this is",
+        84
+      ],
+      [
+        "and i",
+        82
+      ],
+      [
+        "to be",
+        75
+      ],
+      [
+        "if you",
+        70
+      ],
+      [
+        "a lot",
+        62
+      ],
+      [
+        "and it's",
+        59
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "a lot of",
+        54
+      ],
+      [
+        "going to be",
+        44
+      ],
+      [
+        "you're going to",
+        44
+      ],
+      [
+        "i want to",
+        37
+      ],
+      [
+        "you want to",
+        31
+      ],
+      [
+        "and then you",
+        31
+      ],
+      [
+        "i'm going to",
+        30
+      ],
+      [
+        "are going to",
+        25
+      ],
+      [
+        "is going to",
+        22
+      ],
+      [
+        "that you can",
+        20
+      ]
+    ],
+    "top_fourgrams": [
+      [
+        "are going to be",
+        13
+      ],
+      [
+        "you can go and",
+        12
+      ],
+      [
+        "a lot of people",
+        10
+      ],
+      [
+        "is going to be",
+        9
+      ],
+      [
+        "you're going to want",
+        9
+      ]
+    ],
+    "signature_phrases": [
+      [
+        "a lot of",
+        54
+      ],
+      [
+        "going to be",
+        44
+      ],
+      [
+        "you're going to",
+        44
+      ],
+      [
+        "i want to",
+        37
+      ],
+      [
+        "you want to",
+        31
+      ]
+    ]
+  },
+  "pronouns": {
+    "i_count": 1043,
+    "you_count": 1117,
+    "we_count": 181,
+    "they_count": 230,
+    "i_ratio": 3.85,
+    "you_ratio": 4.12,
+    "we_ratio": 0.67,
+    "they_ratio": 0.85,
+    "pronoun_profile": "Persuasion/Personalization"
+  },
+  "rhetorical_devices": {
+    "contrast_patterns": 3,
+    "questions_total": 67,
+    "rhetorical_questions": 10,
+    "numbered_lists": 216,
+    "imperatives": 0,
+    "rhetorical_density": 0.3
+  },
+  "temporal_anchoring": {
+    "past_focus": 226,
+    "present_focus": 642,
+    "future_focus": 85,
+    "past_percentage": 23.7,
+    "present_percentage": 67.4,
+    "future_percentage": 8.9,
+    "temporal_orientation": "present"
+  },
+  "sensory_anchors": {
+    "visual_count": 122,
+    "auditory_count": 126,
+    "kinesthetic_count": 17,
+    "dominant_sense": "auditory",
+    "sensory_richness": 0.98
+  },
+  "fear_vs_aspiration": {
+    "fear_count": 11,
+    "aspiration_count": 48,
+    "fear_percentage": 18.6,
+    "aspiration_percentage": 81.4,
+    "motivation_style": "aspiration-based"
+  },
+  "cadence_pacing": {
+    "avg_sentence_length": 28.3,
+    "shortest_sentence": 1,
+    "longest_sentence": 2443,
+    "short_sentences": 273,
+    "medium_sentences": 479,
+    "long_sentences": 207,
+    "rhythm_changes": 362,
+    "pacing_style": "flowing"
+  }
+}

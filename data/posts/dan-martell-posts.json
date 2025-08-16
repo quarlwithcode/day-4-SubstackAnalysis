@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "dan-martell-post-1",
+      "title": "Key Insight #1",
+      "content": "look, i'm 44 years old and i've made every mistake you can make",
+      "date": "2025-08-16T19:30:39.967722",
+      "engagement": 85
+    },
+    {
+      "id": "dan-martell-post-2",
+      "title": "Key Insight #2",
+      "content": "drug addiction, prison, bankruptcy - i've been there",
+      "date": "2025-08-16T19:30:39.967724",
+      "engagement": 90
+    },
+    {
+      "id": "dan-martell-post-3",
+      "title": "Key Insight #3",
+      "content": "not your parents, not the government, not some magical opportunity",
+      "date": "2025-08-16T19:30:39.967724",
+      "engagement": 95
+    }
+  ],
+  "totalPosts": 1,
+  "influencerId": "dan-martell"
+}

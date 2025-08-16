@@ -1,0 +1,37 @@
+CREATOR LANGUAGE PROFILE: David Ondrej
+============================================================
+Source Files: 1 transcripts
+Original Word Count: 390
+Cleaned Word Count: 379
+Reduction: 2.8%
+============================================================
+
+TOP KEY PHRASES (3-word patterns):
+----------------------------------------
+let me show: 3 occurrences
+me show you: 2 occurrences
+if you want: 2 occurrences
+going to build: 2 occurrences
+to build a: 2 occurrences
+alright, llama 3.2: 1 occurrences
+llama 3.2 dropped: 1 occurrences
+3.2 dropped and: 1 occurrences
+dropped and honestly,: 1 occurrences
+and honestly, this: 1 occurrences
+honestly, this changes: 1 occurrences
+this changes everything.: 1 occurrences
+changes everything. let: 1 occurrences
+everything. let me: 1 occurrences
+show you exactly: 1 occurrences
+you exactly how: 1 occurrences
+exactly how to: 1 occurrences
+how to build: 1 occurrences
+to build with: 1 occurrences
+build with this.: 1 occurrences
+
+============================================================
+
+CLEANED TRANSCRIPT TEXT:
+============================================================
+
+alright, llama 3.2 dropped and honestly, this changes everything. let me show you exactly how to build with this. first thing - forget what about model sizes. this 3b parameter model is outperforming models 30 times its size. i've been testing it all morning and the results are insane. let me walk you through the setup. you're going to need python 3.10 or higher, cuda if you want gpu acceleration, and about 8gb of ram minimum. here's the exact code you need. import transformers, import torch. simple. now here's where it gets interesting - the quantization. most people miss this but if you quantize to 4-bit, you can run this on a laptop. a regular laptop. now watch this - i'm going to build a complete agent system using swarm. openai released this and nobody's talking about how powerful this is. you can orchestrate multiple agents, each with their own context, all working together. here's the architecture: agent one handles intent recognition. agent two does the task decomposition. agent three executes. agent four validates. it's beautiful. the key insight here is that you don't need massive compute anymore. what you need is clever orchestration. small models working together beat one large model every single time. let me show you a practical example. we're going to build a code review system. takes your pr, analyzes it across multiple dimensions, gives you actionable feedback. total cost? under a cent per review. copy this code - i'll put it in the description. run it locally first to understand how it works. then we'll deploy it to production using modal. takes five minutes. here's what most tutorials won't tell you - the prompt engineering matters more than the model. i've tested thousands of variations. this exact format gives you the best results. now for the advanced stuff. function calling. most people think you need gpt-4 for this. wrong. with the prompt structure, llama 3.2 handles it perfectly. let me show you. this is the future - small, efficient models that you control completely. no api costs, no rate limits, no privacy concerns. everything runs on your hardware. try this yourself. break it. modify it. make it yours. that's how you learn. and if you want to see more builds this, what to do.

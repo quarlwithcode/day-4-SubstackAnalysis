@@ -1,0 +1,78 @@
+LINGUISTIC PATTERN ANALYSIS: Shan Hanif
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: WE
+  YOU-focused: 7.5% (8 instances)
+  I-focused: 16.8% (18 instances)
+  WE-focused: 75.7% (81 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.07
+  Urgency Ratio: 1.0
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: JOURNEY
+Metaphor Usage:
+  journey: 8 references
+  building: 4 references
+  machine: 4 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "figures is about" - 4x
+  "our average client" - 2x
+  "every single time." - 2x
+  "months. the difference?" - 2x
+  "for one week," - 2x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Community/Solidarity
+  I/me/my: 1.36% of words
+  You/your: 0.6% of words
+  We/us/our: 5.89% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 0
+Questions: 22 (Rhetorical: 0)
+Numbered Lists: 35
+Imperatives: 0
+Rhetorical Density: 0.26
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 15.6%
+  Present: 78.1%
+  Future: 6.2%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: KINESTHETIC
+  Visual: 3 references
+  Auditory: 2 references
+  Kinesthetic: 4 references
+Sensory Richness: 0.68%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: FEAR-BASED
+  Fear-based: 75.0%
+  Aspiration-based: 25.0%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: PUNCHY
+Average Sentence Length: 6.1 words
+  Short (<8 words): 155
+  Medium (8-20 words): 60
+  Long (>20 words): 1
+Rhythm Changes: 13

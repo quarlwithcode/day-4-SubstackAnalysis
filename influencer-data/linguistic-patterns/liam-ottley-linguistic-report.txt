@@ -1,0 +1,78 @@
+LINGUISTIC PATTERN ANALYSIS: Liam Ottley
+======================================================================
+
+1. IDENTITY FRAMING
+----------------------------------------
+Primary Frame: YOU
+  YOU-focused: 61.8% (21 instances)
+  I-focused: 38.2% (13 instances)
+  WE-focused: 0.0% (0 instances)
+
+2. EMOTIONAL VALENCE & AROUSAL
+----------------------------------------
+Emotional Tone: NEGATIVE
+Arousal Level: HIGH
+  Positivity Ratio: 0.14
+  Urgency Ratio: 1.0
+
+3. METAPHORICAL FRAMES
+----------------------------------------
+Dominant Metaphor: JOURNEY
+Metaphor Usage:
+  journey: 3 references
+  building: 1 references
+  machine: 1 references
+
+4. SIGNATURE PHRASES
+----------------------------------------
+Top 3-word patterns:
+  "you need to" - 3x
+  "if you want" - 2x
+  "i'm going to" - 2x
+  "- you need" - 2x
+  "the ability to" - 2x
+
+5. PRONOUN PROFILE
+----------------------------------------
+Profile: Persuasion/Personalization
+  I/me/my: 2.72% of words
+  You/your: 4.18% of words
+  We/us/our: 0.0% of words
+
+6. RHETORICAL DEVICES
+----------------------------------------
+Contrast Patterns: 0
+Questions: 3 (Rhetorical: 0)
+Numbered Lists: 16
+Imperatives: 0
+Rhetorical Density: 0.29
+
+7. TEMPORAL ANCHORING
+----------------------------------------
+Primary Orientation: PRESENT
+  Past: 18.2%
+  Present: 63.6%
+  Future: 18.2%
+
+8. SENSORY ANCHORS
+----------------------------------------
+Dominant Sense: VISUAL
+  Visual: 1 references
+  Auditory: 0 references
+  Kinesthetic: 1 references
+Sensory Richness: 0.42%
+
+9. FEAR VS ASPIRATION
+----------------------------------------
+Motivation Style: ASPIRATION-BASED
+  Fear-based: 0%
+  Aspiration-based: 0%
+
+10. CADENCE & PACING
+----------------------------------------
+Pacing Style: PUNCHY
+Average Sentence Length: 7.2 words
+  Short (<8 words): 42
+  Medium (8-20 words): 22
+  Long (>20 words): 2
+Rhythm Changes: 7

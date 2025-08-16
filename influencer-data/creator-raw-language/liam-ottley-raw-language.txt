@@ -1,0 +1,37 @@
+CREATOR LANGUAGE PROFILE: Liam Ottley
+============================================================
+Source Files: 1 transcripts
+Original Word Count: 487
+Cleaned Word Count: 478
+Reduction: 1.8%
+============================================================
+
+TOP KEY PHRASES (3-word patterns):
+----------------------------------------
+you need to: 3 occurrences
+if you want: 2 occurrences
+i'm going to: 2 occurrences
+- you need: 2 occurrences
+the ability to: 2 occurrences
+i started with: 2 occurrences
+they care about: 2 occurrences
+look, if you: 1 occurrences
+you want to: 1 occurrences
+want to get: 1 occurrences
+to get rich: 1 occurrences
+get rich with: 1 occurrences
+rich with ai: 1 occurrences
+with ai in: 1 occurrences
+ai in 2025,: 1 occurrences
+in 2025, you: 1 occurrences
+2025, you need: 1 occurrences
+need to understand: 1 occurrences
+to understand this: 1 occurrences
+understand this one: 1 occurrences
+
+============================================================
+
+CLEANED TRANSCRIPT TEXT:
+============================================================
+
+look, if you want to get rich with ai in 2025, you need to understand this one thing - it's not about the technology, it's about the business model. i've built multiple seven-figure ai agencies and i'm going to show you exactly how to do it. no fluff, no theory, what works. first, let's talk about the opportunity. every single business needs ai now but they don't know how to implement it. that's where you come in. you become the bridge between ai capabilities and business problems. here's the foolproof skillset - you need three things. one, basic prompt engineering. two, understanding of business processes. three, the ability to sell transformation, not technology. most people think you need to be a developer. you don't. i started with zero coding knowledge. what you need is the ability to connect the dots between what ai can do and what businesses need. let me give you the exact framework. step one - pick a niche. don't try to serve everyone. i started with real estate agents. one niche, one solution, scaled to seven figures. step two - create a signature system. mine is called the ai acceleration framework. it's chatgpt, zapier, and some custom prompts. but to the client, it's a proprietary system worth $5,000 a month. step three - sell the outcome, not the process. clients don't care about ai. they care about getting 10 hours back per week. they care about doubling their leads. focus on that. here's what nobody tells you - the technical part is maybe 20% of the business. the other 80% is positioning, sales, and delivery. master those and you'll print money. i'm going to share something that made me millions. ready? productize everything. don't sell custom solutions. create three packages - starter, growth, scale. price them at $1,500, $3,500, and $7,500 per month. the starter package? it's chatgpt training and some basic automations. takes two hours to deliver. the client sees massive value, you have 90% margins. now, acquisition. forget cold email. forget paid ads. do what i did - create free value upfront. i built a simple ai tool for real estate agents, gave it away free, then upsold them on the full system. within 90 days, i had 50 clients. do the math - 50 clients at average $3,500 per month. that's $175,000 monthly recurring revenue. from zero. but here's the key - you need to move fast. the window is closing. in 12 months, everyone will be doing this. now, you have first-mover advantage. start today. pick your niche. build your first automation. get your first client. then scale from there. it's not complicated, it requires action. if you want the complete blueprint, i've put together a free course. six hours of everything i know. link below. but honestly, you have enough here to start. the question is - will you?
