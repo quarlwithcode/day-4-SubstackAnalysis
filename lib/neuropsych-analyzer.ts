@@ -1,9 +1,23 @@
 import { Post, NeuropsychAnalysis, BrandProfile, LanguagePatterns, PsychologicalTrigger, TransformationNarrative, MissionVision } from '@/types';
 import OpenAI from 'openai';
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
+// Initialize OpenAI only when needed and if API key exists
+let openai: OpenAI | null = null;
+
+function getOpenAIClient(): OpenAI | null {
+  if (!process.env.OPENAI_API_KEY) {
+    console.warn('OpenAI API key not found, using fallback analysis');
+    return null;
+  }
+  
+  if (!openai) {
+    openai = new OpenAI({
+      apiKey: process.env.OPENAI_API_KEY,
+    });
+  }
+  
+  return openai;
+}
 
 export async function analyzeNeuropsychology(
   influencerId: string,
@@ -47,6 +61,13 @@ export async function analyzeNeuropsychology(
 }
 
 async function analyzeBrandProfile(content: string): Promise<BrandProfile> {
+  const client = getOpenAIClient();
+  
+  // If no OpenAI client available, return default
+  if (!client) {
+    return getDefaultBrandProfile();
+  }
+  
   const prompt = `Analyze the following content and identify the brand profile:
   1. What archetype does this person embody? (e.g., Sage, Hero, Creator, Ruler, etc.)
   2. Rate their authority level (0-100)
@@ -60,7 +81,7 @@ async function analyzeBrandProfile(content: string): Promise<BrandProfile> {
   Respond in JSON format.`;
 
   try {
-    const response = await openai.chat.completions.create({
+    const response = await client.chat.completions.create({
       model: 'gpt-4-turbo-preview',
       messages: [{ role: 'user', content: prompt }],
       response_format: { type: 'json_object' },
