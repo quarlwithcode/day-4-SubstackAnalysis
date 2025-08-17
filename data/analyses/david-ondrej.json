@@ -1,0 +1,224 @@
+{
+  "id": "david-ondrej",
+  "influencerId": "david-ondrej",
+  "influencerName": "David Ondrej",
+  "date": "2025-08-16T19:30:39.946278",
+  "analyzedAt": "2025-08-16T19:30:39.946281",
+  "posts": [
+    {
+      "id": "david-ondrej-post-1",
+      "title": "Key Insight #1",
+      "content": "this 3b parameter model is outperforming models 30 times its size",
+      "date": "2025-08-16T19:30:39.946311",
+      "engagement": 85
+    },
+    {
+      "id": "david-ondrej-post-2",
+      "title": "Key Insight #2",
+      "content": "i've been testing it all morning and the results are insane",
+      "date": "2025-08-16T19:30:39.946313",
+      "engagement": 90
+    },
+    {
+      "id": "david-ondrej-post-3",
+      "title": "Key Insight #3",
+      "content": "10 or higher, cuda if you want gpu acceleration, and about 8gb of ram minimum",
+      "date": "2025-08-16T19:30:39.946314",
+      "engagement": 95
+    }
+  ],
+  "overallAssessment": "David Ondrej as 'The Technical Architect' uses 68% YOU-focused communication.",
+  "brandProfile": {
+    "positioning": {
+      "archetype": "The Technical Architect",
+      "description": "YOU-focused building-based approach",
+      "authority": 81,
+      "relatability": 50,
+      "persuasion": 79,
+      "expertise": 83,
+      "connection": 15
+    },
+    "tone": {
+      "primary": "Urgent & Driven",
+      "secondary": [
+        "punchy",
+        "high-energy"
+      ],
+      "emotionalRange": "High-urgency with action-driving intensity"
+    },
+    "uniqueValue": "Provides unique perspective and proven frameworks for success.",
+    "voice": {
+      "tone": "negative",
+      "arousal": "high",
+      "style": "punchy",
+      "clarity": 70
+    },
+    "messaging": {
+      "core_themes": [
+        "growth",
+        "success",
+        "transformation",
+        "mastery"
+      ],
+      "value_props": [
+        "achieve goals",
+        "build success",
+        "create value"
+      ],
+      "differentiators": [
+        "unique approach",
+        "proven methods",
+        "distinctive voice"
+      ]
+    }
+  },
+  "languagePatterns": {
+    "vocabularyComplexity": "simple",
+    "sentenceStructure": "Punchy style, 7 words/sentence avg",
+    "emotionalTone": {
+      "positive": 25,
+      "neutral": 0,
+      "negative": 75
+    },
+    "powerWords": [
+      "dropped",
+      "build",
+      "llama",
+      "honestly,",
+      "alright,"
+    ],
+    "rhetoricalDevices": [
+      "Repetition (5 phrases)"
+    ],
+    "signature_phrases": [],
+    "word_frequency": {},
+    "sentence_structure": {
+      "avg_length": 7.1,
+      "variety": 4,
+      "style": "punchy"
+    },
+    "emotional_valence": 0.25
+  },
+  "psychologicalTriggers": [
+    {
+      "trigger": "Urgency Creation",
+      "description": "Creates immediate action through 100% urgency language",
+      "frequency": "very high",
+      "impact": "primary",
+      "examples": [
+        "now here's where it gets interesting - the quantization",
+        "now watch this - i'm going to build a complete agent system using swarm"
+      ]
+    },
+    {
+      "trigger": "Transformation Promise",
+      "description": "Promises meaningful change and growth",
+      "frequency": "moderate",
+      "impact": "supporting",
+      "examples": [
+        "Your future self will thank you",
+        "This changes everything",
+        "Transform your approach"
+      ]
+    },
+    {
+      "trigger": "Transformation Promise",
+      "description": "Promises meaningful change and growth",
+      "frequency": "moderate",
+      "impact": "supporting",
+      "examples": [
+        "Your future self will thank you",
+        "This changes everything",
+        "Transform your approach"
+      ]
+    },
+    {
+      "trigger": "Transformation Promise",
+      "description": "Promises meaningful change and growth",
+      "frequency": "moderate",
+      "impact": "supporting",
+      "examples": [
+        "Your future self will thank you",
+        "This changes everything",
+        "Transform your approach"
+      ]
+    }
+  ],
+  "transformationNarrative": {
+    "beforeState": "Curious about AI but overwhelmed by complexity, stuck with tutorials, not building real applications",
+    "afterState": "Confidently building with cutting-edge models, deploying production AI systems, teaching others practical implementation",
+    "journey": [
+      "Start with small local models to understand fundamentals",
+      "Learn prompt engineering and model selection",
+      "Build practical applications that solve real problems",
+      "Optimize for performance and cost efficiency",
+      "Share your builds to teach and learn from community"
+    ],
+    "promises": [
+      "Run state-of-the-art models on consumer hardware",
+      "Build production-ready AI applications",
+      "Master the latest open-source AI tools",
+      "Create cost-effective AI solutions"
+    ],
+    "evidence": [
+      "Tutorials used by thousands of developers",
+      "Open-source contributions to AI tools",
+      "Practical builds running in production",
+      "Community of builders following methods"
+    ]
+  },
+  "missionVision": {
+    "mission": "Democratize AI automation by showing solopreneurs how to build no-code systems that replace entire teams",
+    "vision": "A world where every entrepreneur has AI employees working 24/7, making million-dollar businesses possible with zero staff",
+    "values": [
+      "Automation over delegation",
+      "Speed of implementation",
+      "Technical precision",
+      "Open-source sharing",
+      "Practical over theoretical"
+    ],
+    "beliefs": [
+      "AI will replace 90% of current jobs",
+      "No-code is the future of development",
+      "Every process can be automated",
+      "Knowledge should be free",
+      "Action beats perfection"
+    ],
+    "goals": [
+      "Automate 1000+ businesses",
+      "Build AI tools used by millions",
+      "Create the AI automation playbook",
+      "Make entrepreneurship accessible"
+    ]
+  },
+  "neuropsychAnalysis": {
+    "emotional_triggers": [
+      "Urgency Creation",
+      "Transformation Promise",
+      "Transformation Promise",
+      "Transformation Promise"
+    ],
+    "cognitive_biases": [
+      "Personalization bias",
+      "Scarcity effect"
+    ],
+    "persuasion_tactics": [
+      "Direct address",
+      "Urgency creation"
+    ],
+    "psychological_hooks": []
+  },
+  "recommendations": [],
+  "insights": [
+    "Uses YOU-centered framing to create specific relationship dynamic",
+    "Leverages building metaphors for conceptual coherence",
+    "Urgency ratio of 100% drives engagement",
+    "5 signature phrases enhance memorability"
+  ],
+  "metrics": {
+    "consistency_score": 85,
+    "authority_score": 52,
+    "engagement_score": 71,
+    "neuropsych_score": 85
+  }
+}

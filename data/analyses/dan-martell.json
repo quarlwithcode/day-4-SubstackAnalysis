@@ -1,0 +1,225 @@
+{
+  "id": "dan-martell",
+  "influencerId": "dan-martell",
+  "influencerName": "Dan Martell",
+  "date": "2025-08-16T19:30:39.960658",
+  "analyzedAt": "2025-08-16T19:30:39.960660",
+  "posts": [
+    {
+      "id": "dan-martell-post-1",
+      "title": "Key Insight #1",
+      "content": "look, i'm 44 years old and i've made every mistake you can make",
+      "date": "2025-08-16T19:30:39.960697",
+      "engagement": 85
+    },
+    {
+      "id": "dan-martell-post-2",
+      "title": "Key Insight #2",
+      "content": "drug addiction, prison, bankruptcy - i've been there",
+      "date": "2025-08-16T19:30:39.960698",
+      "engagement": 90
+    },
+    {
+      "id": "dan-martell-post-3",
+      "title": "Key Insight #3",
+      "content": "not your parents, not the government, not some magical opportunity",
+      "date": "2025-08-16T19:30:39.960699",
+      "engagement": 95
+    }
+  ],
+  "overallAssessment": "Dan Martell as 'The Brutal Truth Teller' uses 50% YOU-focused communication.",
+  "brandProfile": {
+    "positioning": {
+      "archetype": "The Brutal Truth Teller",
+      "description": "YOU-focused journey-based approach",
+      "authority": 95,
+      "relatability": 40,
+      "persuasion": 73,
+      "expertise": 95,
+      "connection": 0
+    },
+    "tone": {
+      "primary": "Urgent & Driven",
+      "secondary": [
+        "punchy",
+        "high-energy"
+      ],
+      "emotionalRange": "High-urgency with action-driving intensity"
+    },
+    "uniqueValue": "Provides unique perspective and proven frameworks for success.",
+    "voice": {
+      "tone": "negative",
+      "arousal": "high",
+      "style": "punchy",
+      "clarity": 70
+    },
+    "messaging": {
+      "core_themes": [
+        "growth",
+        "success",
+        "transformation",
+        "mastery"
+      ],
+      "value_props": [
+        "achieve goals",
+        "build success",
+        "create value"
+      ],
+      "differentiators": [
+        "unique approach",
+        "proven methods",
+        "distinctive voice"
+      ]
+    }
+  },
+  "languagePatterns": {
+    "vocabularyComplexity": "simple",
+    "sentenceStructure": "Punchy style, 7 words/sentence avg",
+    "emotionalTone": {
+      "positive": 16,
+      "neutral": 0,
+      "negative": 84
+    },
+    "powerWords": [
+      "years",
+      "waiting",
+      "here's",
+      "trading",
+      "perfect",
+      "look,"
+    ],
+    "rhetoricalDevices": [
+      "Repetition (5 phrases)"
+    ],
+    "signature_phrases": [],
+    "word_frequency": {},
+    "sentence_structure": {
+      "avg_length": 6.9,
+      "variety": 3,
+      "style": "punchy"
+    },
+    "emotional_valence": 0.16
+  },
+  "psychologicalTriggers": [
+    {
+      "trigger": "Urgency Creation",
+      "description": "Creates immediate action through 100% urgency language",
+      "frequency": "very high",
+      "impact": "primary",
+      "examples": [
+        "now i run multiple eight-figure companies",
+        "it's not about knowing rich people",
+        "it's about becoming someone worth knowing",
+        "if you're in your 20s or 30s, here's what you need to understand - you have time arbitrage"
+      ]
+    },
+    {
+      "trigger": "Authority & Expertise",
+      "description": "Establishes credibility through 5.5% I-focused expertise sharing",
+      "frequency": "high",
+      "impact": "supporting",
+      "examples": [
+        "i built my first saas company because i was tired of billing hours",
+        "that's why i built software, courses, and communities"
+      ]
+    },
+    {
+      "trigger": "Transformation Promise",
+      "description": "Promises meaningful change and growth",
+      "frequency": "moderate",
+      "impact": "supporting",
+      "examples": [
+        "Your future self will thank you",
+        "This changes everything",
+        "Transform your approach"
+      ]
+    },
+    {
+      "trigger": "Transformation Promise",
+      "description": "Promises meaningful change and growth",
+      "frequency": "moderate",
+      "impact": "supporting",
+      "examples": [
+        "Your future self will thank you",
+        "This changes everything",
+        "Transform your approach"
+      ]
+    }
+  ],
+  "transformationNarrative": {
+    "beforeState": "Trading time for money, working in the business, no systems, hitting personal capacity ceiling",
+    "afterState": "CEO mindset, scalable SaaS business, buying back time, building wealth through leverage",
+    "journey": [
+      "Shift from operator to owner mindset",
+      "Build systems that run without you",
+      "Hire A-players who execute autonomously",
+      "Create recurring revenue streams",
+      "Leverage capital for exponential growth"
+    ],
+    "promises": [
+      "Buy back 1000+ hours per year",
+      "Build sellable business asset",
+      "Scale beyond personal limitations",
+      "Create generational wealth"
+    ],
+    "evidence": [
+      "Built and sold multiple companies",
+      "Invested in 100+ SaaS startups",
+      "Coached 1000+ founders",
+      "Created $100M+ in enterprise value"
+    ]
+  },
+  "missionVision": {
+    "mission": "Show SaaS founders how to buy back their time while scaling to 8-figures and beyond",
+    "vision": "A generation of founders who build wealth and freedom simultaneously, not sacrificing one for the other",
+    "values": [
+      "Time is the real currency",
+      "Systems create freedom",
+      "People multiply impact",
+      "Growth requires discomfort",
+      "Legacy over lifestyle"
+    ],
+    "beliefs": [
+      "You can't scale what you won't delegate",
+      "Every founder has a buyback rate",
+      "A-players only want to work with A-players",
+      "Coaching is the highest ROI investment",
+      "Your business should buy you freedom"
+    ],
+    "goals": [
+      "Help 1000 founders exit successfully",
+      "Build the SaaS founder playbook",
+      "Create $1B in founder wealth",
+      "Transform how founders think about time"
+    ]
+  },
+  "neuropsychAnalysis": {
+    "emotional_triggers": [
+      "Urgency Creation",
+      "Authority & Expertise",
+      "Transformation Promise",
+      "Transformation Promise"
+    ],
+    "cognitive_biases": [
+      "Scarcity effect"
+    ],
+    "persuasion_tactics": [
+      "Direct address",
+      "Urgency creation"
+    ],
+    "psychological_hooks": []
+  },
+  "recommendations": [],
+  "insights": [
+    "Uses YOU-centered framing to create specific relationship dynamic",
+    "Leverages journey metaphors for conceptual coherence",
+    "Urgency ratio of 100% drives engagement",
+    "5 signature phrases enhance memorability"
+  ],
+  "metrics": {
+    "consistency_score": 75,
+    "authority_score": 100,
+    "engagement_score": 55,
+    "neuropsych_score": 50
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "id": "dan-koe",
+  "influencerId": "dan-koe",
+  "influencerName": "Dan Koe",
+  "date": "2025-08-16T19:30:39.956372",
+  "analyzedAt": "2025-08-16T19:30:39.956378",
+  "posts": [
+    {
+      "id": "dan-koe-post-1",
+      "title": "Key Insight #1",
+      "content": "transcript ======================================== i shave my head every often, as you can tell",
+      "date": "2025-08-16T19:30:39.957747",
+      "engagement": 85
+    },
+    {
+      "id": "dan-koe-post-2",
+      "title": "Key Insight #2",
+      "content": "i buzzed my head to rip the metaphorical band-aid off and get used to the look that i was doomed to have",
+      "date": "2025-08-16T19:30:39.957749",
+      "engagement": 90
+    },
+    {
+      "id": "dan-koe-post-3",
+      "title": "Key Insight #3",
+      "content": "and i also believe that too many guys are dependent on their hair for their self-confidence",
+      "date": "2025-08-16T19:30:39.957750",
+      "engagement": 95
+    }
+  ],
+  "overallAssessment": "Dan Koe manifests as 'The Systems Designer' using 67% personalized language to guide individual transformation. Through 58 building references and 5 signature phrases, creates memorable systems for life design. Balances philosophical depth with practical implementation.",
+  "brandProfile": {
+    "positioning": {
+      "archetype": "The Systems Designer",
+      "description": "Systems thinking with YOU-based personal development",
+      "authority": 87,
+      "relatability": 51,
+      "persuasion": 90,
+      "expertise": 95,
+      "connection": 16
+    },
+    "tone": {
+      "primary": "Urgent & Driven",
+      "secondary": [
+        "balanced",
+        "high-energy",
+        "systematic"
+      ],
+      "emotionalRange": "High-urgency with action-driving intensity"
+    },
+    "uniqueValue": "Integrates consciousness, creativity, and commerce into unified life design. Makes building your own thing feel inevitable through systems thinking and philosophical depth.",
+    "voice": {
+      "tone": "negative",
+      "arousal": "high",
+      "style": "balanced",
+      "clarity": 90
+    },
+    "messaging": {
+      "core_themes": [
+        "conscious creation",
+        "system design",
+        "authentic work",
+        "personal evolution"
+      ],
+      "value_props": [
+        "Align work with authentic self",
+        "Build leveraged one-person business",
+        "Create systems for consistent output"
+      ],
+      "differentiators": [
+        "Philosophy meets practical systems",
+        "5 memorable frameworks",
+        "Consciousness-commerce integration"
+      ]
+    }
+  },
+  "languagePatterns": {
+    "vocabularyComplexity": "moderate",
+    "sentenceStructure": "Balanced style, 16 words/sentence avg",
+    "emotionalTone": {
+      "positive": 25,
+      "neutral": 0,
+      "negative": 75
+    },
+    "powerWords": [
+      "you're"
+    ],
+    "rhetoricalDevices": [
+      "Lists (289x)",
+      "Repetition (5 phrases)"
+    ],
+    "signature_phrases": [
+      "you're going to",
+      "is going to",
+      "that you can",
+      "are going to",
+      "it's going to"
+    ],
+    "word_frequency": {
+      "you can": 131,
+      "that you": 125,
+      "and then": 101,
+      "if you": 85,
+      "to be": 78
+    },
+    "sentence_structure": {
+      "avg_length": 15.9,
+      "variety": 717,
+      "style": "balanced"
+    },
+    "emotional_valence": 0.25
+  },
+  "psychologicalTriggers": [
+    {
+      "trigger": "Achievement Drive",
+      "description": "Activates success motivation through 89% aspiration-focused language",
+      "frequency": "high",
+      "impact": "primary",
+      "examples": [
+        "but for me, it's a sub identity that helps me achieve goals faster with pure focus, a warrior going into battle",
+        "i use this war mode as a means to take my mind body business to another level when i need to, because the problem here is the problem with modern life now",
+        "not the middle path, but the path of high highs and low lows, catastrophic failure and blissful success",
+        "i'd to propose another solution to go a little insane, to flip the switch overnight to transform into an entirely new person"
+      ]
+    },
+    {
+      "trigger": "Urgency Creation",
+      "description": "Creates immediate action through 89% urgency language",
+      "frequency": "very high",
+      "impact": "primary",
+      "examples": [
+        "and now i know this can sound cheesy, but after doing it a few times, shaving my head is become symbolic for shifting into an alter ego",
+        "and this is especially the case now because with cortex picking up and new features finally getting in, i have to work a lot more",
+        "and this is symbolic of me of like, okay, it's time to lock in, we need to get things done",
+        "i use this war mode as a means to take my mind body business to another level when i need to, because the problem here is the problem with modern life now"
+      ]
+    },
+    {
+      "trigger": "System & Structure",
+      "description": "Provides clarity through 289 structured lists and frameworks",
+      "frequency": "very high",
+      "impact": "primary",
+      "examples": [
+        "and at first it was out of fear of going bald",
+        "the second thing here is that the average person lacks periods of pure intensity toward a meaningful goal",
+        "the alter ego allows you to step outside yourself to see the bigger picture",
+        "they fail to step out of that little box and view it from an entirely new angle"
+      ]
+    },
+    {
+      "trigger": "Transformation Promise",
+      "description": "Promises meaningful change and growth",
+      "frequency": "moderate",
+      "impact": "supporting",
+      "examples": [
+        "Your future self will thank you",
+        "This changes everything",
+        "Transform your approach"
+      ]
+    }
+  ],
+  "transformationNarrative": {
+    "beforeState": "Trapped in others' systems, unclear direction, building without purpose, reactive to external pressures",
+    "afterState": "Self-directed creator with clear systems, aligned work and life, building your own thing, proactive life design",
+    "journey": [
+      "Develop clarity on your unique path and vision",
+      "Build personal systems for consistent creation",
+      "Align your work with your authentic interests",
+      "Create value that flows from who you are",
+      "Design a life of intentional growth"
+    ],
+    "promises": [
+      "Build your own thing authentically",
+      "Create systems for consistent progress",
+      "Align work with personal evolution",
+      "Design a life of intentional creation"
+    ],
+    "evidence": [
+      "7-figure creator business",
+      "Kortex development and launch",
+      "The Art of Focus bestseller",
+      "Thousands transformed through 2 Hour Writer"
+    ]
+  },
+  "missionVision": {
+    "mission": "Help individuals build their own thing by aligning personal development with value creation and authentic self-expression",
+    "vision": "A world where people design their own path, build aligned businesses, and contribute unique value from their authentic perspective",
+    "values": [
+      "Conscious creation",
+      "Systems thinking",
+      "Authentic expression",
+      "Continuous evolution",
+      "Intentional living"
+    ],
+    "beliefs": [
+      "You can build your own thing",
+      "Systems create freedom",
+      "Creativity is your nature",
+      "Your perspective has value",
+      "Life is meant to be designed"
+    ],
+    "goals": [
+      "Enable 1M creators",
+      "Develop consciousness tools",
+      "Write transformative books",
+      "Build education systems"
+    ]
+  },
+  "neuropsychAnalysis": {
+    "emotional_triggers": [
+      "Achievement Drive",
+      "Urgency Creation",
+      "System & Structure",
+      "Transformation Promise"
+    ],
+    "cognitive_biases": [
+      "Personalization bias",
+      "Clustering illusion",
+      "Scarcity effect"
+    ],
+    "persuasion_tactics": [
+      "Direct address",
+      "Urgency creation"
+    ],
+    "psychological_hooks": [
+      "you're going to",
+      "is going to",
+      "that you can",
+      "are going to",
+      "it's going to"
+    ]
+  },
+  "recommendations": [
+    "Share more personal experiences to build authority",
+    "Increase future-visioning to strengthen transformation narrative",
+    "Continue developing signature frameworks - they're highly memorable"
+  ],
+  "insights": [
+    "Extreme YOU-focus (67%) creates personal transformation feel",
+    "5 signature phrases build memorable framework",
+    "Building metaphors (58x) emphasize systematic growth",
+    "Balanced pacing with 717 rhythm changes maintains engagement"
+  ],
+  "metrics": {
+    "consistency_score": 95,
+    "authority_score": 61,
+    "engagement_score": 81,
+    "neuropsych_score": 85
+  }
+}
