@@ -1,6 +1,6 @@
 import SearchBar from '@/components/SearchBar';
 import InfluencerCard from '@/components/InfluencerCard';
-import { getInfluencers } from '@/lib/data-manager';
+import { getInfluencers } from '@/lib/data-loader';
 
 export default async function Home() {
   const influencers = await getInfluencers();

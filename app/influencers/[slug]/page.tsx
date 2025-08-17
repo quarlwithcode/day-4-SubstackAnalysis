@@ -1,6 +1,15 @@
 import { notFound } from 'next/navigation';
 import AnalysisSection from '@/components/AnalysisSection';
-import { getInfluencer, getAnalysis } from '@/lib/data-manager';
+import { getInfluencer, getAnalysis, getInfluencers } from '@/lib/data-loader';
+
+// Generate static params for all influencers at build time
+export async function generateStaticParams() {
+  const influencers = await getInfluencers();
+  
+  return influencers.map((influencer) => ({
+    slug: influencer.slug,
+  }));
+}
 
 export default async function InfluencerAnalysisPage({
   params,

@@ -1,9 +1,9 @@
 import Link from 'next/link';
-import { Influencer } from '@/types';
-import { getAnalysis } from '@/lib/data-manager';
+import { getAnalysis } from '@/lib/data-loader';
 
+// Use any type for influencer to handle both formats
 interface InfluencerCardProps {
-  influencer: Influencer;
+  influencer: any;
   analysis?: any;
   featured?: boolean;
 }

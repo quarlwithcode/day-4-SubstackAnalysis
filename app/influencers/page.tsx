@@ -1,7 +1,7 @@
 import { Suspense } from 'react';
 import SearchBar from '@/components/SearchBar';
 import InfluencerCard from '@/components/InfluencerCard';
-import { getInfluencers, searchInfluencers } from '@/lib/data-manager';
+import { getInfluencers, searchInfluencers } from '@/lib/data-loader';
 
 async function InfluencersList({ searchQuery }: { searchQuery?: string }) {
   const influencers = searchQuery 
